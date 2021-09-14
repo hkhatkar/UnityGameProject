@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: b4ffd12f29680f84dba1b03b248864fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7947316248230608304
+    second: MajorlyAttack 1_0
+  - first:
+      213: 5089689407005879454
+    second: MajorlyAttack 1_1
+  - first:
+      213: -947626927940858620
+    second: MajorlyAttack 1_2
+  - first:
+      213: -68260525679365085
+    second: MajorlyAttack 1_3
+  - first:
+      213: -8446143233433762249
+    second: MajorlyAttack 1_4
+  - first:
+      213: 5711658827038219550
+    second: MajorlyAttack 1_5
+  - first:
+      213: -3645644907891278977
+    second: MajorlyAttack 1_6
+  - first:
+      213: 8695624270547973033
+    second: MajorlyAttack 1_7
+  - first:
+      213: -5793283898481443609
+    second: MajorlyAttack 1_8
+  - first:
+      213: -4667464153805789169
+    second: MajorlyAttack 1_9
+  - first:
+      213: -6618546943638688481
+    second: MajorlyAttack 1_10
+  - first:
+      213: -6183639652844448512
+    second: MajorlyAttack 1_0
+  - first:
+      213: 7651947750538700541
+    second: MajorlyAttack 1_1
+  - first:
+      213: -8709118878723371919
+    second: MajorlyAttack 1_2
+  - first:
+      213: -1936013774912070228
+    second: MajorlyAttack 1_3
+  - first:
+      213: 5265716007556004133
+    second: MajorlyAttack 1_4
+  - first:
+      213: 6098632272283057380
+    second: MajorlyAttack 1_5
+  - first:
+      213: -903909698076862863
+    second: MajorlyAttack 1_6
+  - first:
+      213: 1544435211015741678
+    second: MajorlyAttack 1_7
+  - first:
+      213: -5839237996820111182
+    second: MajorlyAttack 1_8
+  - first:
+      213: -1495551304962534250
+    second: MajorlyAttack 1_9
+  - first:
+      213: 4677829359510848254
+    second: MajorlyAttack 1_10
+  - first:
+      213: 6484721560063381570
+    second: MajorlyAttack 1_11
+  - first:
+      213: -2525701085478639886
+    second: MajorlyAttack 1_12
+  - first:
+      213: 6019254547229872167
+    second: MajorlyAttack 1_11
+  - first:
+      213: 2013103539409436514
+    second: MajorlyAttack 1_12
+  - first:
+      213: -3691740116732447974
+    second: MajorlyAttack 1_13
+  - first:
+      213: -6789526877423470343
+    second: MajorlyAttack 1_14
+  - first:
+      213: 1690070064923287539
+    second: MajorlyAttack 1_15
+  - first:
+      213: -4628822688765938822
+    second: MajorlyAttack 1_16
+  - first:
+      213: -3123868072931294834
+    second: MajorlyAttack 1_17
+  - first:
+      213: -5983353995614463091
+    second: MajorlyAttack 1_18
+  - first:
+      213: -2380174562720905988
+    second: MajorlyAttack 1_19
+  - first:
+      213: 4761213848078992956
+    second: MajorlyAttack 1_20
+  - first:
+      213: 144036107136578630
+    second: MajorlyAttack 1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MajorlyAttack 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005df218f7c4f2aa0800000000000000
+      internalID: -6183639652844448512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df665b6ffed213a60800000000000000
+      internalID: 7651947750538700541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c8b0fc58ef22780800000000000000
+      internalID: -8709118878723371919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5a1aaab5e125e0800000000000000
+      internalID: -1936013774912070228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b6765fc4931940800000000000000
+      internalID: 5265716007556004133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3a2d5db1b2a450800000000000000
+      internalID: 6098632272283057380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17619113beaa473f0800000000000000
+      internalID: -903909698076862863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e23344afee6510800000000000000
+      internalID: 1544435211015741678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e290cafbd6fea0800000000000000
+      internalID: -5839237996820111182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694165c030cbe3be0800000000000000
+      internalID: -1495551304962534250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2898da40dfae040800000000000000
+      internalID: 4677829359510848254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209a4c8e10b88350800000000000000
+      internalID: 6019254547229872167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb492d00bffeb10800000000000000
+      internalID: 2013103539409436514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137a1b6ced44ccc0800000000000000
+      internalID: -3691740116732447974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f4360741c6c1a0800000000000000
+      internalID: -6789526877423470343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff164905c5547710800000000000000
+      internalID: 1690070064923287539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7376d30a4e13cfb0800000000000000
+      internalID: -4628822688765938822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810fb3e98ac5a4d0800000000000000
+      internalID: -3123868072931294834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5cfdfd3bd6fca0800000000000000
+      internalID: -5983353995614463091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4899d88dbe7fed0800000000000000
+      internalID: -2380174562720905988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364b62d4ca331240800000000000000
+      internalID: 4761213848078992956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyAttack 1_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b4b88318bff100800000000000000
+      internalID: 144036107136578630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

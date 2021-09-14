@@ -1,0 +1,7247 @@
+fileFormatVersion: 2
+guid: abd11da7f68b2bb41a2451baf0d82077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6592034270730439636
+    second: DarkTileMap_0
+  - first:
+      213: 8890335157641502669
+    second: DarkTileMap_1
+  - first:
+      213: -8589279999937922419
+    second: DarkTileMap_2
+  - first:
+      213: 2983839716558528608
+    second: DarkTileMap_3
+  - first:
+      213: 2610502349922152198
+    second: DarkTileMap_4
+  - first:
+      213: 5423584557032158769
+    second: DarkTileMap_5
+  - first:
+      213: -1638111884370058371
+    second: DarkTileMap_6
+  - first:
+      213: -7073008168342960857
+    second: DarkTileMap_7
+  - first:
+      213: -1885599149842604824
+    second: DarkTileMap_8
+  - first:
+      213: 2678965100525815852
+    second: DarkTileMap_9
+  - first:
+      213: -6412653972011480407
+    second: DarkTileMap_10
+  - first:
+      213: -1491383009731141514
+    second: DarkTileMap_11
+  - first:
+      213: 1730418675263497597
+    second: DarkTileMap_12
+  - first:
+      213: 8471747062449625165
+    second: DarkTileMap_13
+  - first:
+      213: 7524006479137599766
+    second: DarkTileMap_14
+  - first:
+      213: 4400500199083074385
+    second: DarkTileMap_15
+  - first:
+      213: -8123477084429373608
+    second: DarkTileMap_16
+  - first:
+      213: -230044230417371246
+    second: DarkTileMap_17
+  - first:
+      213: 1714170508848144209
+    second: DarkTileMap_18
+  - first:
+      213: 6780810748090923224
+    second: DarkTileMap_19
+  - first:
+      213: 7361162215812586467
+    second: DarkTileMap_20
+  - first:
+      213: -2163452986992596812
+    second: DarkTileMap_21
+  - first:
+      213: -839306714030569488
+    second: DarkTileMap_22
+  - first:
+      213: -7618529631515573246
+    second: DarkTileMap_23
+  - first:
+      213: -6557411160441503557
+    second: DarkTileMap_24
+  - first:
+      213: -6802257651475148298
+    second: DarkTileMap_25
+  - first:
+      213: 4314688995378518098
+    second: DarkTileMap_26
+  - first:
+      213: 3941195307108058198
+    second: DarkTileMap_27
+  - first:
+      213: 3537526638401494113
+    second: DarkTileMap_28
+  - first:
+      213: -92658060964084601
+    second: DarkTileMap_0
+  - first:
+      213: 483336097245877468
+    second: DarkTileMap_1
+  - first:
+      213: 3824049441032239165
+    second: DarkTileMap_2
+  - first:
+      213: -489710307560591175
+    second: DarkTileMap_3
+  - first:
+      213: 6940056597476750615
+    second: DarkTileMap_4
+  - first:
+      213: -5367605073042285684
+    second: DarkTileMap_5
+  - first:
+      213: 203987154274191848
+    second: DarkTileMap_6
+  - first:
+      213: 4788898497308040765
+    second: DarkTileMap_7
+  - first:
+      213: -7126069866878855013
+    second: DarkTileMap_8
+  - first:
+      213: 6053154148038690925
+    second: DarkTileMap_9
+  - first:
+      213: 3080721258500010168
+    second: DarkTileMap_10
+  - first:
+      213: -7038493485422613439
+    second: DarkTileMap_11
+  - first:
+      213: -3485019170303686411
+    second: DarkTileMap_12
+  - first:
+      213: 6402174513628892995
+    second: DarkTileMap_13
+  - first:
+      213: -5440551736900549040
+    second: DarkTileMap_14
+  - first:
+      213: -2157038433896281360
+    second: DarkTileMap_15
+  - first:
+      213: 3191996595182160154
+    second: DarkTileMap_16
+  - first:
+      213: 2173635416913324572
+    second: DarkTileMap_17
+  - first:
+      213: -2450107729317941576
+    second: DarkTileMap_18
+  - first:
+      213: 2938060414749495156
+    second: DarkTileMap_19
+  - first:
+      213: 4383441714252089388
+    second: DarkTileMap_20
+  - first:
+      213: -3414152054641557438
+    second: DarkTileMap_21
+  - first:
+      213: -384649187096729866
+    second: DarkTileMap_22
+  - first:
+      213: -4307745678115963929
+    second: DarkTileMap_23
+  - first:
+      213: -6422525753587541994
+    second: DarkTileMap_24
+  - first:
+      213: -8131687507246249213
+    second: DarkTileMap_25
+  - first:
+      213: 4676874010797732615
+    second: DarkTileMap_26
+  - first:
+      213: -7340057443065359225
+    second: DarkTileMap_27
+  - first:
+      213: -1142600384487698484
+    second: DarkTileMap_28
+  - first:
+      213: -2557282755827366487
+    second: DarkTileMap_29
+  - first:
+      213: 4927185851646285568
+    second: DarkTileMap_30
+  - first:
+      213: 1204606275105453484
+    second: DarkTileMap_31
+  - first:
+      213: 6844271018229443128
+    second: DarkTileMap_32
+  - first:
+      213: 6666066743441349523
+    second: DarkTileMap_33
+  - first:
+      213: -2222118937165397836
+    second: DarkTileMap_34
+  - first:
+      213: 3603234947998129537
+    second: DarkTileMap_35
+  - first:
+      213: -8654651531271885228
+    second: DarkTileMap_36
+  - first:
+      213: 9106520444261631428
+    second: DarkTileMap_37
+  - first:
+      213: -74576111020747342
+    second: DarkTileMap_38
+  - first:
+      213: -3205903830633658530
+    second: DarkTileMap_39
+  - first:
+      213: 742230674209234446
+    second: DarkTileMap_40
+  - first:
+      213: 5879614876330259734
+    second: DarkTileMap_41
+  - first:
+      213: -5758348946699209132
+    second: DarkTileMap_42
+  - first:
+      213: 8081416799921287289
+    second: DarkTileMap_43
+  - first:
+      213: 1763985296925733461
+    second: DarkTileMap_44
+  - first:
+      213: 1126906563145895923
+    second: DarkTileMap_45
+  - first:
+      213: 7939964059316798880
+    second: DarkTileMap_46
+  - first:
+      213: -4343268713050466284
+    second: DarkTileMap_47
+  - first:
+      213: 4022812565821207541
+    second: DarkTileMap_48
+  - first:
+      213: -9104860466021161085
+    second: DarkTileMap_49
+  - first:
+      213: 3017170496774156450
+    second: DarkTileMap_50
+  - first:
+      213: -3678349813369618798
+    second: DarkTileMap_51
+  - first:
+      213: 5759243118508625649
+    second: DarkTileMap_52
+  - first:
+      213: -6261030083449712008
+    second: DarkTileMap_53
+  - first:
+      213: 1493055338671315936
+    second: DarkTileMap_54
+  - first:
+      213: -5298844586415714110
+    second: DarkTileMap_55
+  - first:
+      213: 7924406477205698675
+    second: DarkTileMap_56
+  - first:
+      213: -4279983063176644542
+    second: DarkTileMap_57
+  - first:
+      213: -2794983960775910900
+    second: DarkTileMap_58
+  - first:
+      213: -7959329591661829764
+    second: DarkTileMap_59
+  - first:
+      213: 4254467865433046794
+    second: DarkTileMap_60
+  - first:
+      213: 912625510316434648
+    second: DarkTileMap_61
+  - first:
+      213: 6044052423993838771
+    second: DarkTileMap_62
+  - first:
+      213: -8172248988648369694
+    second: DarkTileMap_63
+  - first:
+      213: -7502154833872712722
+    second: DarkTileMap_64
+  - first:
+      213: -4733472241671355084
+    second: DarkTileMap_65
+  - first:
+      213: 7158917105123883185
+    second: DarkTileMap_66
+  - first:
+      213: 8883830798402755173
+    second: DarkTileMap_67
+  - first:
+      213: 5429134795533254772
+    second: DarkTileMap_68
+  - first:
+      213: -7523290047340292872
+    second: DarkTileMap_69
+  - first:
+      213: 8428328061382256478
+    second: DarkTileMap_70
+  - first:
+      213: 7560709659925426551
+    second: DarkTileMap_71
+  - first:
+      213: 7968173676162985388
+    second: DarkTileMap_72
+  - first:
+      213: 230395569331492449
+    second: DarkTileMap_73
+  - first:
+      213: 5229652953670238010
+    second: DarkTileMap_74
+  - first:
+      213: 5278958731460885173
+    second: DarkTileMap_75
+  - first:
+      213: 5941592748296257468
+    second: DarkTileMap_76
+  - first:
+      213: 459912437428063868
+    second: DarkTileMap_77
+  - first:
+      213: -8017215083896577033
+    second: DarkTileMap_78
+  - first:
+      213: 7831328948558162150
+    second: DarkTileMap_79
+  - first:
+      213: 2062861694341665069
+    second: DarkTileMap_80
+  - first:
+      213: 1429855042062978492
+    second: DarkTileMap_81
+  - first:
+      213: 2855927111169163041
+    second: DarkTileMap_82
+  - first:
+      213: -6470464460776660154
+    second: DarkTileMap_83
+  - first:
+      213: -3792664083016677696
+    second: DarkTileMap_84
+  - first:
+      213: 6971281497117820711
+    second: DarkTileMap_85
+  - first:
+      213: 8827787474539963570
+    second: DarkTileMap_86
+  - first:
+      213: -2110234525270772609
+    second: DarkTileMap_87
+  - first:
+      213: -2415405381260030720
+    second: DarkTileMap_88
+  - first:
+      213: 4190352063472023102
+    second: DarkTileMap_89
+  - first:
+      213: -4846602883722019660
+    second: DarkTileMap_90
+  - first:
+      213: 811198139643976446
+    second: DarkTileMap_91
+  - first:
+      213: -4901397939948487599
+    second: DarkTileMap_92
+  - first:
+      213: 8751135487428711634
+    second: DarkTileMap_93
+  - first:
+      213: -6113988539601869565
+    second: DarkTileMap_94
+  - first:
+      213: -6144731149313352046
+    second: DarkTileMap_95
+  - first:
+      213: -2138088111087372836
+    second: DarkTileMap_96
+  - first:
+      213: 812581376423507195
+    second: DarkTileMap_97
+  - first:
+      213: 124640540989707625
+    second: DarkTileMap_98
+  - first:
+      213: 6612306970214784414
+    second: DarkTileMap_99
+  - first:
+      213: -8155923167809989328
+    second: DarkTileMap_100
+  - first:
+      213: 5460779875315770937
+    second: DarkTileMap_101
+  - first:
+      213: -5406863181493761081
+    second: DarkTileMap_102
+  - first:
+      213: -3508593597856891554
+    second: DarkTileMap_103
+  - first:
+      213: -3322667811539792126
+    second: DarkTileMap_104
+  - first:
+      213: 4920535562043934097
+    second: DarkTileMap_105
+  - first:
+      213: 4434328809552629163
+    second: DarkTileMap_106
+  - first:
+      213: 1826826052744457359
+    second: DarkTileMap_107
+  - first:
+      213: -1644599107246485187
+    second: DarkTileMap_108
+  - first:
+      213: -8225872929393944054
+    second: DarkTileMap_109
+  - first:
+      213: 5639074096923822519
+    second: DarkTileMap_110
+  - first:
+      213: 832510561045409405
+    second: DarkTileMap_111
+  - first:
+      213: -2813157534666125313
+    second: DarkTileMap_112
+  - first:
+      213: 4517611481029707184
+    second: DarkTileMap_113
+  - first:
+      213: 1026457613494963555
+    second: DarkTileMap_114
+  - first:
+      213: -1987833766332452405
+    second: DarkTileMap_115
+  - first:
+      213: 1145857943468528816
+    second: DarkTileMap_116
+  - first:
+      213: -1341854419683522612
+    second: DarkTileMap_117
+  - first:
+      213: -4961919233956804607
+    second: DarkTileMap_118
+  - first:
+      213: 4333230028655262516
+    second: DarkTileMap_119
+  - first:
+      213: 8398310311610038295
+    second: DarkTileMap_120
+  - first:
+      213: -1824422903063535484
+    second: DarkTileMap_121
+  - first:
+      213: 7125192686003059016
+    second: DarkTileMap_122
+  - first:
+      213: 8993052389602420048
+    second: DarkTileMap_123
+  - first:
+      213: -5618238184572795225
+    second: DarkTileMap_124
+  - first:
+      213: -35152055954379698
+    second: DarkTileMap_125
+  - first:
+      213: 5790881509463034166
+    second: DarkTileMap_126
+  - first:
+      213: 145677550031993922
+    second: DarkTileMap_127
+  - first:
+      213: 5820751093370246518
+    second: DarkTileMap_128
+  - first:
+      213: -332988789581567147
+    second: DarkTileMap_129
+  - first:
+      213: -6709067146999328170
+    second: DarkTileMap_130
+  - first:
+      213: 5120775376113704782
+    second: DarkTileMap_131
+  - first:
+      213: 6241022440014158057
+    second: DarkTileMap_132
+  - first:
+      213: 2931203917354537452
+    second: DarkTileMap_133
+  - first:
+      213: -8007476559438931159
+    second: DarkTileMap_134
+  - first:
+      213: -7409683504068147408
+    second: DarkTileMap_135
+  - first:
+      213: -7227405811568245650
+    second: DarkTileMap_136
+  - first:
+      213: -7622833845248081235
+    second: DarkTileMap_137
+  - first:
+      213: -3983941563695702627
+    second: DarkTileMap_138
+  - first:
+      213: -6785264396940974016
+    second: DarkTileMap_139
+  - first:
+      213: -4368689460940460909
+    second: DarkTileMap_140
+  - first:
+      213: -6885426473082004092
+    second: DarkTileMap_141
+  - first:
+      213: -1553349712336005166
+    second: DarkTileMap_142
+  - first:
+      213: -7592849421306453302
+    second: DarkTileMap_143
+  - first:
+      213: 725411323726912103
+    second: DarkTileMap_144
+  - first:
+      213: -829878528734341864
+    second: DarkTileMap_145
+  - first:
+      213: 3939366489459173788
+    second: DarkTileMap_146
+  - first:
+      213: 6078045387780814836
+    second: DarkTileMap_147
+  - first:
+      213: -2349127280010532059
+    second: DarkTileMap_148
+  - first:
+      213: -5545022835893481817
+    second: DarkTileMap_149
+  - first:
+      213: 209589843422954772
+    second: DarkTileMap_150
+  - first:
+      213: 5383388404125952818
+    second: DarkTileMap_151
+  - first:
+      213: 7328496194693387624
+    second: DarkTileMap_152
+  - first:
+      213: 2059945099371206139
+    second: DarkTileMap_153
+  - first:
+      213: 1221892696863871412
+    second: DarkTileMap_154
+  - first:
+      213: -8003189910460508350
+    second: DarkTileMap_155
+  - first:
+      213: 5927682693730240868
+    second: DarkTileMap_156
+  - first:
+      213: 4029667303942148232
+    second: DarkTileMap_157
+  - first:
+      213: 6925653682848107366
+    second: DarkTileMap_158
+  - first:
+      213: -5985665156510540
+    second: DarkTileMap_159
+  - first:
+      213: -8359971227514539512
+    second: DarkTileMap_160
+  - first:
+      213: 8351384831211400401
+    second: DarkTileMap_161
+  - first:
+      213: -7200348013228080804
+    second: DarkTileMap_162
+  - first:
+      213: 7326046524926777556
+    second: DarkTileMap_163
+  - first:
+      213: 3785291687150161756
+    second: DarkTileMap_164
+  - first:
+      213: 7526554017201727731
+    second: DarkTileMap_165
+  - first:
+      213: -7870030949912077914
+    second: DarkTileMap_166
+  - first:
+      213: -8585224026936961511
+    second: DarkTileMap_167
+  - first:
+      213: 4793174779536674750
+    second: DarkTileMap_168
+  - first:
+      213: -6616847838800362294
+    second: DarkTileMap_169
+  - first:
+      213: 7198338086642387919
+    second: DarkTileMap_170
+  - first:
+      213: -8683080543863945423
+    second: DarkTileMap_171
+  - first:
+      213: -1974874981042712973
+    second: DarkTileMap_172
+  - first:
+      213: -2361657248868565694
+    second: DarkTileMap_173
+  - first:
+      213: -2406838188368501710
+    second: DarkTileMap_174
+  - first:
+      213: -4543857801793865305
+    second: DarkTileMap_175
+  - first:
+      213: 2458687698994269087
+    second: DarkTileMap_176
+  - first:
+      213: -7863104517204877129
+    second: DarkTileMap_177
+  - first:
+      213: -6245292446938641889
+    second: DarkTileMap_178
+  - first:
+      213: 4535134737353091019
+    second: DarkTileMap_179
+  - first:
+      213: -6610710629264063322
+    second: DarkTileMap_180
+  - first:
+      213: 6154886726581003866
+    second: DarkTileMap_181
+  - first:
+      213: -3983160828859713068
+    second: DarkTileMap_182
+  - first:
+      213: 6608172950427249296
+    second: DarkTileMap_183
+  - first:
+      213: 2383125679456998921
+    second: DarkTileMap_184
+  - first:
+      213: 1972188698282086785
+    second: DarkTileMap_185
+  - first:
+      213: 863892253196242128
+    second: DarkTileMap_186
+  - first:
+      213: 5321337311584323376
+    second: DarkTileMap_187
+  - first:
+      213: -4529786546555556904
+    second: DarkTileMap_188
+  - first:
+      213: -7526675620416520996
+    second: DarkTileMap_189
+  - first:
+      213: 1883692080685256106
+    second: DarkTileMap_190
+  - first:
+      213: -6317658010270059274
+    second: DarkTileMap_191
+  - first:
+      213: 3572667505059036925
+    second: DarkTileMap_192
+  - first:
+      213: -6826538296079088300
+    second: DarkTileMap_193
+  - first:
+      213: -1200585306979967416
+    second: DarkTileMap_194
+  - first:
+      213: -3022948631805900820
+    second: DarkTileMap_195
+  - first:
+      213: -514858975787628991
+    second: DarkTileMap_196
+  - first:
+      213: 2348633253184219316
+    second: DarkTileMap_197
+  - first:
+      213: -4475231250171176972
+    second: DarkTileMap_198
+  - first:
+      213: -3359746126088588514
+    second: DarkTileMap_199
+  - first:
+      213: -7178097836770238086
+    second: DarkTileMap_200
+  - first:
+      213: 8022913481469964511
+    second: DarkTileMap_201
+  - first:
+      213: 2683836567689093903
+    second: DarkTileMap_202
+  - first:
+      213: -5847302210370341000
+    second: DarkTileMap_203
+  - first:
+      213: 3451349630028400077
+    second: DarkTileMap_204
+  - first:
+      213: -5233436294713340972
+    second: DarkTileMap_205
+  - first:
+      213: 3912732738322011588
+    second: DarkTileMap_206
+  - first:
+      213: -1806744510596072486
+    second: DarkTileMap_207
+  - first:
+      213: -4063782662496131551
+    second: DarkTileMap_208
+  - first:
+      213: -1302413156641023228
+    second: DarkTileMap_209
+  - first:
+      213: 8783893740390858296
+    second: DarkTileMap_210
+  - first:
+      213: -8236177370165224877
+    second: DarkTileMap_211
+  - first:
+      213: -6707667067227094670
+    second: DarkTileMap_212
+  - first:
+      213: 5911455885749288917
+    second: DarkTileMap_213
+  - first:
+      213: -662657164128594402
+    second: DarkTileMap_214
+  - first:
+      213: -6952978243531405743
+    second: DarkTileMap_215
+  - first:
+      213: -9127947290591004204
+    second: DarkTileMap_216
+  - first:
+      213: 7539860932034470409
+    second: DarkTileMap_217
+  - first:
+      213: -9217738083497096100
+    second: DarkTileMap_218
+  - first:
+      213: 5013765317313564237
+    second: DarkTileMap_219
+  - first:
+      213: -8648519253064598934
+    second: DarkTileMap_220
+  - first:
+      213: -8810345283119873418
+    second: DarkTileMap_221
+  - first:
+      213: -399824594580107228
+    second: DarkTileMap_222
+  - first:
+      213: -8146848223085728141
+    second: DarkTileMap_223
+  - first:
+      213: 5953672669072719150
+    second: DarkTileMap_224
+  - first:
+      213: 5006027192391030493
+    second: DarkTileMap_225
+  - first:
+      213: 4556349207831329934
+    second: DarkTileMap_226
+  - first:
+      213: -8407566167181339573
+    second: DarkTileMap_227
+  - first:
+      213: 4036534441706809821
+    second: DarkTileMap_228
+  - first:
+      213: -8952144154291405661
+    second: DarkTileMap_229
+  - first:
+      213: 1570668675393884212
+    second: DarkTileMap_230
+  - first:
+      213: -2761848450190860379
+    second: DarkTileMap_231
+  - first:
+      213: 7077878786904826903
+    second: DarkTileMap_232
+  - first:
+      213: 5776864529072250056
+    second: DarkTileMap_233
+  - first:
+      213: 2260856447424028299
+    second: DarkTileMap_234
+  - first:
+      213: 4968900861791482067
+    second: DarkTileMap_235
+  - first:
+      213: -8071055479638058679
+    second: DarkTileMap_236
+  - first:
+      213: -1752241387682069161
+    second: DarkTileMap_237
+  - first:
+      213: 6398803186749029239
+    second: DarkTileMap_238
+  - first:
+      213: 4396783170312537564
+    second: DarkTileMap_239
+  - first:
+      213: 5867361453567143187
+    second: DarkTileMap_240
+  - first:
+      213: 9068349684396176879
+    second: DarkTileMap_241
+  - first:
+      213: 3925139823019110466
+    second: DarkTileMap_242
+  - first:
+      213: -625593046294330415
+    second: DarkTileMap_243
+  - first:
+      213: 2299574428695048999
+    second: DarkTileMap_244
+  - first:
+      213: 1914639643087095950
+    second: DarkTileMap_245
+  - first:
+      213: -8541915984604140234
+    second: DarkTileMap_246
+  - first:
+      213: -3798201524245250906
+    second: DarkTileMap_247
+  - first:
+      213: 8725247302914589517
+    second: DarkTileMap_248
+  - first:
+      213: 282469566640197905
+    second: DarkTileMap_29
+  - first:
+      213: 1248691455962713845
+    second: DarkTileMap_30
+  - first:
+      213: 7254688546803629383
+    second: DarkTileMap_31
+  - first:
+      213: 884637104342960129
+    second: DarkTileMap_32
+  - first:
+      213: 839730529146085707
+    second: DarkTileMap_33
+  - first:
+      213: 2591769818746355547
+    second: DarkTileMap_34
+  - first:
+      213: 3651316122450162665
+    second: DarkTileMap_35
+  - first:
+      213: 699374376489344629
+    second: DarkTileMap_36
+  - first:
+      213: -1857710594994016507
+    second: DarkTileMap_37
+  - first:
+      213: -2787779708482261042
+    second: DarkTileMap_38
+  - first:
+      213: -6806196911976698858
+    second: DarkTileMap_39
+  - first:
+      213: -5730122134581559088
+    second: DarkTileMap_40
+  - first:
+      213: 364085298617144530
+    second: DarkTileMap_41
+  - first:
+      213: -1511553890842785714
+    second: DarkTileMap_42
+  - first:
+      213: 2518286367930714196
+    second: DarkTileMap_43
+  - first:
+      213: -6698538574839269231
+    second: DarkTileMap_44
+  - first:
+      213: -1050157444791745661
+    second: DarkTileMap_45
+  - first:
+      213: -3247774282630813229
+    second: DarkTileMap_46
+  - first:
+      213: 6425131922207819445
+    second: DarkTileMap_47
+  - first:
+      213: 5271621749528851631
+    second: DarkTileMap_48
+  - first:
+      213: -681988652772610086
+    second: DarkTileMap_49
+  - first:
+      213: 5641731122605556880
+    second: DarkTileMap_50
+  - first:
+      213: -4908299684439803822
+    second: DarkTileMap_51
+  - first:
+      213: -7647462910125793678
+    second: DarkTileMap_52
+  - first:
+      213: -7259438096118540889
+    second: DarkTileMap_53
+  - first:
+      213: 2712201858998911743
+    second: DarkTileMap_54
+  - first:
+      213: -3152081048430456845
+    second: DarkTileMap_55
+  - first:
+      213: -2527373010345750994
+    second: DarkTileMap_56
+  - first:
+      213: -6429248230489985890
+    second: DarkTileMap_57
+  - first:
+      213: -3595648518564633424
+    second: DarkTileMap_58
+  - first:
+      213: -6331394774697715077
+    second: DarkTileMap_59
+  - first:
+      213: 8782138263693293160
+    second: DarkTileMap_60
+  - first:
+      213: 4347462152500669295
+    second: DarkTileMap_61
+  - first:
+      213: -496898442938285923
+    second: DarkTileMap_62
+  - first:
+      213: -9217812826005325251
+    second: DarkTileMap_63
+  - first:
+      213: -8567728384786369652
+    second: DarkTileMap_64
+  - first:
+      213: 38080825685796774
+    second: DarkTileMap_65
+  - first:
+      213: 7163268957054851084
+    second: DarkTileMap_66
+  - first:
+      213: -5342016546304621375
+    second: DarkTileMap_67
+  - first:
+      213: -268189750041916233
+    second: DarkTileMap_68
+  - first:
+      213: 5373795796500011342
+    second: DarkTileMap_69
+  - first:
+      213: -4562917640843778077
+    second: DarkTileMap_70
+  - first:
+      213: 7346728884255875163
+    second: DarkTileMap_71
+  - first:
+      213: -4541268816026381080
+    second: DarkTileMap_72
+  - first:
+      213: -6705803065743542186
+    second: DarkTileMap_73
+  - first:
+      213: -1489573378605644748
+    second: DarkTileMap_74
+  - first:
+      213: 3349532173974285358
+    second: DarkTileMap_75
+  - first:
+      213: 5249959434856071744
+    second: DarkTileMap_76
+  - first:
+      213: 3951459164462384270
+    second: DarkTileMap_77
+  - first:
+      213: -5766570038720851691
+    second: DarkTileMap_78
+  - first:
+      213: -2242083992007999459
+    second: DarkTileMap_79
+  - first:
+      213: 1252466797054220600
+    second: DarkTileMap_80
+  - first:
+      213: 1747778410084829718
+    second: DarkTileMap_81
+  - first:
+      213: 281655041035602888
+    second: DarkTileMap_82
+  - first:
+      213: 6531326780137969886
+    second: DarkTileMap_83
+  - first:
+      213: 2533151824870570312
+    second: DarkTileMap_84
+  - first:
+      213: 4786661536459487602
+    second: DarkTileMap_85
+  - first:
+      213: -4885447342012627791
+    second: DarkTileMap_86
+  - first:
+      213: 7875454820392121665
+    second: DarkTileMap_87
+  - first:
+      213: 7618172938321735305
+    second: DarkTileMap_88
+  - first:
+      213: -4016874858375804225
+    second: DarkTileMap_89
+  - first:
+      213: -2089010930844566814
+    second: DarkTileMap_90
+  - first:
+      213: 1159492417735792046
+    second: DarkTileMap_91
+  - first:
+      213: -8183412417268389235
+    second: DarkTileMap_92
+  - first:
+      213: 2609742176169969493
+    second: DarkTileMap_93
+  - first:
+      213: 6704525922206022425
+    second: DarkTileMap_94
+  - first:
+      213: 3409836530216896019
+    second: DarkTileMap_95
+  - first:
+      213: 4813599477344079040
+    second: DarkTileMap_96
+  - first:
+      213: 2585554176434125877
+    second: DarkTileMap_97
+  - first:
+      213: -8551830364285898115
+    second: DarkTileMap_98
+  - first:
+      213: -6333004878775377884
+    second: DarkTileMap_99
+  - first:
+      213: -6933787467747691923
+    second: DarkTileMap_100
+  - first:
+      213: -6480407147925791892
+    second: DarkTileMap_101
+  - first:
+      213: -4107770380537175131
+    second: DarkTileMap_102
+  - first:
+      213: -4079134535717613431
+    second: DarkTileMap_103
+  - first:
+      213: -6506274688084775848
+    second: DarkTileMap_104
+  - first:
+      213: 8878303578464081395
+    second: DarkTileMap_105
+  - first:
+      213: -1190953094152771382
+    second: DarkTileMap_106
+  - first:
+      213: 2876946023946982556
+    second: DarkTileMap_107
+  - first:
+      213: 775634978577003419
+    second: DarkTileMap_108
+  - first:
+      213: -4476795757809908040
+    second: DarkTileMap_109
+  - first:
+      213: -4461149885319968003
+    second: DarkTileMap_110
+  - first:
+      213: -6716714783105835956
+    second: DarkTileMap_111
+  - first:
+      213: 7915722965585783250
+    second: DarkTileMap_112
+  - first:
+      213: 8111038972538194966
+    second: DarkTileMap_113
+  - first:
+      213: -2164291039290601046
+    second: DarkTileMap_114
+  - first:
+      213: -4217247515012887783
+    second: DarkTileMap_115
+  - first:
+      213: 2552304520366642514
+    second: DarkTileMap_116
+  - first:
+      213: 369012067259518447
+    second: DarkTileMap_117
+  - first:
+      213: 671603591873590188
+    second: DarkTileMap_118
+  - first:
+      213: -3371295365384819496
+    second: DarkTileMap_119
+  - first:
+      213: -4308403751449956682
+    second: DarkTileMap_120
+  - first:
+      213: 4655688741580983641
+    second: DarkTileMap_121
+  - first:
+      213: 2571802000747416324
+    second: DarkTileMap_122
+  - first:
+      213: -7606167383930735160
+    second: DarkTileMap_123
+  - first:
+      213: 7584268607977396828
+    second: DarkTileMap_124
+  - first:
+      213: -4079473989088275981
+    second: DarkTileMap_125
+  - first:
+      213: -6102677542192589552
+    second: DarkTileMap_126
+  - first:
+      213: 4779742567671877281
+    second: DarkTileMap_127
+  - first:
+      213: -705815499131644203
+    second: DarkTileMap_128
+  - first:
+      213: 1108848790774438275
+    second: DarkTileMap_129
+  - first:
+      213: 7171630556742304072
+    second: DarkTileMap_130
+  - first:
+      213: 2362439592118896947
+    second: DarkTileMap_131
+  - first:
+      213: -8406881212965173085
+    second: DarkTileMap_132
+  - first:
+      213: -767550428107684655
+    second: DarkTileMap_133
+  - first:
+      213: -721575638381705894
+    second: DarkTileMap_134
+  - first:
+      213: 2600309175667278914
+    second: DarkTileMap_135
+  - first:
+      213: 8416212496866485529
+    second: DarkTileMap_136
+  - first:
+      213: -8118199974508782546
+    second: DarkTileMap_137
+  - first:
+      213: -7956723038159574893
+    second: DarkTileMap_138
+  - first:
+      213: 8970656364510040206
+    second: DarkTileMap_139
+  - first:
+      213: -3391699308520615081
+    second: DarkTileMap_140
+  - first:
+      213: -7325163399697215227
+    second: DarkTileMap_141
+  - first:
+      213: -6582532631938703834
+    second: DarkTileMap_142
+  - first:
+      213: -2112383286285047951
+    second: DarkTileMap_143
+  - first:
+      213: -5304733783503329540
+    second: DarkTileMap_144
+  - first:
+      213: -2370431175566828683
+    second: DarkTileMap_145
+  - first:
+      213: -3460654903759617790
+    second: DarkTileMap_146
+  - first:
+      213: -5808642083991451960
+    second: DarkTileMap_147
+  - first:
+      213: -7356693709747129132
+    second: DarkTileMap_148
+  - first:
+      213: 1651648956998659366
+    second: DarkTileMap_149
+  - first:
+      213: 5330849945436429845
+    second: DarkTileMap_150
+  - first:
+      213: 6524675472707832234
+    second: DarkTileMap_151
+  - first:
+      213: 4819253820689703243
+    second: DarkTileMap_152
+  - first:
+      213: 2038091350984207613
+    second: DarkTileMap_153
+  - first:
+      213: -7158495142492728273
+    second: DarkTileMap_154
+  - first:
+      213: -4804173654234813166
+    second: DarkTileMap_155
+  - first:
+      213: 7091013643590523523
+    second: DarkTileMap_156
+  - first:
+      213: -7591154492280434529
+    second: DarkTileMap_157
+  - first:
+      213: 5202480547909271946
+    second: DarkTileMap_158
+  - first:
+      213: 6973739656685371783
+    second: DarkTileMap_159
+  - first:
+      213: 8569759516805162905
+    second: DarkTileMap_160
+  - first:
+      213: 973191812025160433
+    second: DarkTileMap_161
+  - first:
+      213: 7917536872568050631
+    second: DarkTileMap_162
+  - first:
+      213: -6227138844605727044
+    second: DarkTileMap_163
+  - first:
+      213: 7497529633814941649
+    second: DarkTileMap_164
+  - first:
+      213: 6292765066300243750
+    second: DarkTileMap_165
+  - first:
+      213: -1723264716277289815
+    second: DarkTileMap_166
+  - first:
+      213: 5300787855769659718
+    second: DarkTileMap_167
+  - first:
+      213: 4393811180034485312
+    second: DarkTileMap_168
+  - first:
+      213: 9196849827445982275
+    second: DarkTileMap_169
+  - first:
+      213: 6837585498647025013
+    second: DarkTileMap_170
+  - first:
+      213: -267636996379710081
+    second: DarkTileMap_171
+  - first:
+      213: -5709024121040595313
+    second: DarkTileMap_172
+  - first:
+      213: -4940204985852781494
+    second: DarkTileMap_173
+  - first:
+      213: 4198338950484056447
+    second: DarkTileMap_174
+  - first:
+      213: -5599192882104243904
+    second: DarkTileMap_175
+  - first:
+      213: 7306804183661095045
+    second: DarkTileMap_176
+  - first:
+      213: -7640981632534453281
+    second: DarkTileMap_177
+  - first:
+      213: -6312326312132085785
+    second: DarkTileMap_178
+  - first:
+      213: 3087328055912982347
+    second: DarkTileMap_179
+  - first:
+      213: 7858688464758199537
+    second: DarkTileMap_180
+  - first:
+      213: -7608937321592018667
+    second: DarkTileMap_181
+  - first:
+      213: 1282325042694561608
+    second: DarkTileMap_182
+  - first:
+      213: -5792844190782720454
+    second: DarkTileMap_183
+  - first:
+      213: -3667234698686415403
+    second: DarkTileMap_184
+  - first:
+      213: 3803458980369487759
+    second: DarkTileMap_185
+  - first:
+      213: 2754426544914146935
+    second: DarkTileMap_186
+  - first:
+      213: 4779448645280761364
+    second: DarkTileMap_187
+  - first:
+      213: 8362666886723612944
+    second: DarkTileMap_188
+  - first:
+      213: -214348022417913325
+    second: DarkTileMap_189
+  - first:
+      213: 5030323777057796997
+    second: DarkTileMap_190
+  - first:
+      213: -2054712246809857239
+    second: DarkTileMap_191
+  - first:
+      213: 1563088015700573878
+    second: DarkTileMap_192
+  - first:
+      213: -2857606828701048895
+    second: DarkTileMap_193
+  - first:
+      213: 3774518467944029345
+    second: DarkTileMap_194
+  - first:
+      213: -6462559820513007171
+    second: DarkTileMap_195
+  - first:
+      213: -8501105563208835428
+    second: DarkTileMap_196
+  - first:
+      213: -9107920580067718496
+    second: DarkTileMap_197
+  - first:
+      213: 69404146870998555
+    second: DarkTileMap_198
+  - first:
+      213: -5340724719221887399
+    second: DarkTileMap_199
+  - first:
+      213: -3365587963369310519
+    second: DarkTileMap_200
+  - first:
+      213: 442675091641130371
+    second: DarkTileMap_201
+  - first:
+      213: -9053573937083707461
+    second: DarkTileMap_202
+  - first:
+      213: -1979519167079206611
+    second: DarkTileMap_203
+  - first:
+      213: -5038225538344344915
+    second: DarkTileMap_204
+  - first:
+      213: 5870437546810941245
+    second: DarkTileMap_205
+  - first:
+      213: -6917400803751457600
+    second: DarkTileMap_206
+  - first:
+      213: 6517682260988837034
+    second: DarkTileMap_207
+  - first:
+      213: 2786370679747765533
+    second: DarkTileMap_208
+  - first:
+      213: -6516709373748553149
+    second: DarkTileMap_209
+  - first:
+      213: 1467673167057600024
+    second: DarkTileMap_210
+  - first:
+      213: -1511925123017102525
+    second: DarkTileMap_211
+  - first:
+      213: 7837675506210419948
+    second: DarkTileMap_212
+  - first:
+      213: 2063017554450002552
+    second: DarkTileMap_213
+  - first:
+      213: -8644064645282622785
+    second: DarkTileMap_214
+  - first:
+      213: -3272322669842412782
+    second: DarkTileMap_215
+  - first:
+      213: 3927075393234695259
+    second: DarkTileMap_216
+  - first:
+      213: 4684756842988107770
+    second: DarkTileMap_217
+  - first:
+      213: -320993196543721969
+    second: DarkTileMap_218
+  - first:
+      213: 3172189047458079476
+    second: DarkTileMap_219
+  - first:
+      213: -1461326460195748494
+    second: DarkTileMap_220
+  - first:
+      213: -4449866212258288034
+    second: DarkTileMap_221
+  - first:
+      213: 2976377149189797576
+    second: DarkTileMap_222
+  - first:
+      213: -8236881550191369661
+    second: DarkTileMap_223
+  - first:
+      213: -7036176217341447765
+    second: DarkTileMap_224
+  - first:
+      213: -2595526575515467304
+    second: DarkTileMap_225
+  - first:
+      213: -7460236735517218846
+    second: DarkTileMap_226
+  - first:
+      213: -4557472905716968471
+    second: DarkTileMap_227
+  - first:
+      213: 567899212046403519
+    second: DarkTileMap_228
+  - first:
+      213: 8466414826596109698
+    second: DarkTileMap_229
+  - first:
+      213: 7668431067881719815
+    second: DarkTileMap_230
+  - first:
+      213: 7585348293777863590
+    second: DarkTileMap_231
+  - first:
+      213: 773255250005684978
+    second: DarkTileMap_232
+  - first:
+      213: 8411830188121860361
+    second: DarkTileMap_233
+  - first:
+      213: -7259684088870323005
+    second: DarkTileMap_234
+  - first:
+      213: 6328908340842418907
+    second: DarkTileMap_235
+  - first:
+      213: -9144269210268029701
+    second: DarkTileMap_236
+  - first:
+      213: 3641289512470224680
+    second: DarkTileMap_237
+  - first:
+      213: -5036879974237403839
+    second: DarkTileMap_238
+  - first:
+      213: 984659541218593195
+    second: DarkTileMap_239
+  - first:
+      213: 9131045560569070055
+    second: DarkTileMap_240
+  - first:
+      213: 7622464198701100482
+    second: DarkTileMap_241
+  - first:
+      213: -3529157750234366039
+    second: DarkTileMap_242
+  - first:
+      213: 4491827259766956699
+    second: DarkTileMap_243
+  - first:
+      213: -8056310846193492003
+    second: DarkTileMap_244
+  - first:
+      213: -641317669807086614
+    second: DarkTileMap_245
+  - first:
+      213: -3016382785388364555
+    second: DarkTileMap_246
+  - first:
+      213: -8626146313162793202
+    second: DarkTileMap_247
+  - first:
+      213: 198972227881320005
+    second: DarkTileMap_248
+  - first:
+      213: 7420747071917755167
+    second: DarkTileMap_249
+  - first:
+      213: 6303397446986574689
+    second: DarkTileMap_250
+  - first:
+      213: 6288578688230917231
+    second: DarkTileMap_251
+  - first:
+      213: 8535534079063338687
+    second: DarkTileMap_252
+  - first:
+      213: -3472709533217993470
+    second: DarkTileMap_249
+  - first:
+      213: -2691031010480398270
+    second: DarkTileMap_250
+  - first:
+      213: -6306969461274937893
+    second: DarkTileMap_251
+  - first:
+      213: -6644782693879317581
+    second: DarkTileMap_252
+  - first:
+      213: 3012302959118440579
+    second: DarkTileMap_253
+  - first:
+      213: -3223101516381673921
+    second: DarkTileMap_254
+  - first:
+      213: -6584114061408970631
+    second: DarkTileMap_255
+  - first:
+      213: 8741887820088391175
+    second: DarkTileMap_256
+  - first:
+      213: 435395979823407073
+    second: DarkTileMap_257
+  - first:
+      213: 5440043899342214705
+    second: DarkTileMap_258
+  - first:
+      213: -3494484855475049318
+    second: DarkTileMap_259
+  - first:
+      213: -1493493938169530201
+    second: DarkTileMap_260
+  - first:
+      213: 3790206400602125963
+    second: DarkTileMap_261
+  - first:
+      213: -4602679565099560771
+    second: DarkTileMap_262
+  - first:
+      213: 4835590047690976686
+    second: DarkTileMap_263
+  - first:
+      213: 861995101357945926
+    second: DarkTileMap_264
+  - first:
+      213: -3531367902026260152
+    second: DarkTileMap_265
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkTileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c8a60cffc6bef0800000000000000
+      internalID: -92658060964084601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d67f9e9725b600800000000000000
+      internalID: 483336097245877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f148b4b0c11530800000000000000
+      internalID: 3824049441032239165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f003e1133439f0800000000000000
+      internalID: -489710307560591175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71535b594b8005060800000000000000
+      internalID: 6940056597476750615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdab6ff9f6285b0800000000000000
+      internalID: -5367605073042285684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9814d6c35b4d200800000000000000
+      internalID: 203987154274191848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e92758fc5957240800000000000000
+      internalID: 4788898497308040765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98121c263d1b1d90800000000000000
+      internalID: -7126069866878855013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68478c60af110450800000000000000
+      internalID: 6053154148038690925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b033e889abe0ca20800000000000000
+      internalID: 3080721258500010168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ceb7f677f325e90800000000000000
+      internalID: -7038493485422613439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84f9e6789b2afc0800000000000000
+      internalID: -3485019170303686411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fc8eaccc719d850800000000000000
+      internalID: 6402174513628892995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05688e345074f74b0800000000000000
+      internalID: -5440551736900549040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4fbc09f8a012e0800000000000000
+      internalID: -2157038433896281360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c61ccdff3c4c20800000000000000
+      internalID: 3191996595182160154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa35035ed4a2e10800000000000000
+      internalID: 2173635416913324572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea09c50087ffdd0800000000000000
+      internalID: -2450107729317941576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc7c5716616c820800000000000000
+      internalID: 2938060414749495156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2800afb30d15dc30800000000000000
+      internalID: 4383441714252089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408be59bce7e90d0800000000000000
+      internalID: -3414152054641557438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e4ff2a9379aaf0800000000000000
+      internalID: -384649187096729866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7c211120d734c0800000000000000
+      internalID: -4307745678115963929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618dd98eada9ed6a0800000000000000
+      internalID: -6422525753587541994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0b12bb41762f80800000000000000
+      internalID: -8131687507246249213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703fad8322897e040800000000000000
+      internalID: 4676874010797732615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784902315a0e22a90800000000000000
+      internalID: -7340057443065359225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc26a010ba420f0800000000000000
+      internalID: -1142600384487698484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111927303988be300800000000000000
+      internalID: 282469566640197905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe09ba634e345110800000000000000
+      internalID: 1248691455962713845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d335cdbc4dda460800000000000000
+      internalID: 7254688546803629383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080e7762ccd64c00800000000000000
+      internalID: 884637104342960129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41adc8977257ab00800000000000000
+      internalID: 839730529146085707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f74f91be0d7f320800000000000000
+      internalID: 2591769818746355547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e37c49faa41ca230800000000000000
+      internalID: 3651316122450162665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e58ab3a4da4b900800000000000000
+      internalID: 699374376489344629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe6e17e061836e0800000000000000
+      internalID: -1857710594994016507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6fdb1021df49d0800000000000000
+      internalID: -2787779708482261042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca44628f78b81a0800000000000000
+      internalID: -6806196911976698858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c9a037448a70b0800000000000000
+      internalID: -5730122134581559088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4540c66ad7d0500800000000000000
+      internalID: 364085298617144530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_42
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c47daeb1e50be0800000000000000
+      internalID: -1511553890842785714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580833fb10c2f220800000000000000
+      internalID: 2518286367930714196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198347418a20a03a0800000000000000
+      internalID: -6698538574839269231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c4f03e571d61f0800000000000000
+      internalID: -1050157444791745661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d924255f769de2d0800000000000000
+      internalID: -3247774282630813229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b648320177aa2950800000000000000
+      internalID: 6425131922207819445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f3ea0d00982940800000000000000
+      internalID: 5271621749528851631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf24a20fe61986f0800000000000000
+      internalID: -681988652772610086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948b2990947b4e40800000000000000
+      internalID: 5641731122605556880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258bdc9317732ebb0800000000000000
+      internalID: -4908299684439803822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1af05001ced590800000000000000
+      internalID: -7647462910125793678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a59ae3838b414b90800000000000000
+      internalID: -7259438096118540889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c8cc883da3a520800000000000000
+      internalID: 2712201858998911743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcf05acfe8144d0800000000000000
+      internalID: -3152081048430456845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8e6f33a7fcecd0800000000000000
+      internalID: -2527373010345750994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce5d84cc8b6c6a0800000000000000
+      internalID: -6429248230489985890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4abc119b0b91ec0800000000000000
+      internalID: -3595648518564633424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad0616ffd5228a0800000000000000
+      internalID: -6331394774697715077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fdc7983c60e970800000000000000
+      internalID: 8782138263693293160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be14a3bc9455c30800000000000000
+      internalID: 4347462152500669295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900833bf79aa19f0800000000000000
+      internalID: -496898442938285923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab9e3a210c31080800000000000000
+      internalID: -9217812826005325251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f6c48d60591980800000000000000
+      internalID: -8567728384786369652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a761c72f4a478000800000000000000
+      internalID: 38080825685796774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0856dfe92b096360800000000000000
+      internalID: 7163268957054851084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4014d11485dd5b0800000000000000
+      internalID: -5342016546304621375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc950e7d2374cf0800000000000000
+      internalID: -268189750041916233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ded92ece839a40800000000000000
+      internalID: 5373795796500011342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a42eb4924da0c0800000000000000
+      internalID: -4562917640843778077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506c2fdef2d4f560800000000000000
+      internalID: 7346728884255875163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4503f821c2af0c0800000000000000
+      internalID: -4541268816026381080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65871acf3a330f2a0800000000000000
+      internalID: -6705803065743542186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434055d77e8f35be0800000000000000
+      internalID: -1489573378605644748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2caa7104cdeb7e20800000000000000
+      internalID: 3349532173974285358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0428ecf5a4a9bd840800000000000000
+      internalID: 5249959434856071744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840e32ac2766d630800000000000000
+      internalID: 3951459164462384270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_78
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51112a53a1709ffa0800000000000000
+      internalID: -5766570038720851691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1006c30d7482e0e0800000000000000
+      internalID: -2242083992007999459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83953638ae7a16110800000000000000
+      internalID: 1252466797054220600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a043f243b514810800000000000000
+      internalID: 1747778410084829718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb002e74c3a8e300800000000000000
+      internalID: 281655041035602888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed89e122a1fe3aa50800000000000000
+      internalID: 6531326780137969886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_84
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849fa8bd920972320800000000000000
+      internalID: 2533151824870570312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27971bc7e43ad6240800000000000000
+      internalID: 4786661536459487602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40672d687633cb0800000000000000
+      internalID: -4885447342012627791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1453c16ee6c3b4d60800000000000000
+      internalID: 7875454820392121665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2922bcef29b960800000000000000
+      internalID: 7618172938321735305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba005f39913148c0800000000000000
+      internalID: -4016874858375804225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf91f50a75203e0800000000000000
+      internalID: -2089010930844566814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea596eee538571010800000000000000
+      internalID: 1159492417735792046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a623a93cdae6e80800000000000000
+      internalID: -8183412417268389235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55747f5aeaaa73420800000000000000
+      internalID: 2609742176169969493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_94
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bfc7cddc24b0d50800000000000000
+      internalID: 6704525922206022425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3168ab5124c225f20800000000000000
+      internalID: 3409836530216896019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_96
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc891a98375dc240800000000000000
+      internalID: 4813599477344079040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c32e913dbb1e320800000000000000
+      internalID: 2585554176434125877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f65dd79bc15980800000000000000
+      internalID: -8551830364285898115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_99
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42027cfcd95ac18a0800000000000000
+      internalID: -6333004878775377884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_100
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f7dce80d36cf90800000000000000
+      internalID: -6933787467747691923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1bfb9808f016a0800000000000000
+      internalID: -6480407147925791892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e5315a944ef6c0800000000000000
+      internalID: -4107770380537175131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980168f70c00467c0800000000000000
+      internalID: -4079134535717613431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c679594a115b5a0800000000000000
+      internalID: -6506274688084775848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f55e6ab012163b70800000000000000
+      internalID: 8878303578464081395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82fd68872e87fe0800000000000000
+      internalID: -1190953094152771382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_107
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9415538a27fce720800000000000000
+      internalID: 2876946023946982556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93337d47eb93ca00800000000000000
+      internalID: 775634978577003419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_109
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c3c33af93fd1c0800000000000000
+      internalID: -4476795757809908040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8ab3c0dfc612c0800000000000000
+      internalID: -4461149885319968003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9c5fcd7f69c2a0800000000000000
+      internalID: -6716714783105835956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_112
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96420191c4add60800000000000000
+      internalID: 7915722965585783250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_113
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0d7da8f2309070800000000000000
+      internalID: 8111038972538194966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1d58444c4e6f1e0800000000000000
+      internalID: -2164291039290601046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b02c1aab35975c0800000000000000
+      internalID: -4217247515012887783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d317407b9b6320800000000000000
+      internalID: 2552304520366642514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed06d2258efe1500800000000000000
+      internalID: 369012067259518447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3708398e3025900800000000000000
+      internalID: 671603591873590188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc21512ab0c631d0800000000000000
+      internalID: -3371295365384819496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6ddd6d997534c0800000000000000
+      internalID: -4308403751449956682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d48ba5e345c9040800000000000000
+      internalID: 4655688741580983641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b403f2b40e0b320800000000000000
+      internalID: 2571802000747416324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c575a24017717690800000000000000
+      internalID: -7606167383930735160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a93a3ad1cb04960800000000000000
+      internalID: 7584268607977396828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f192f9550cc267c0800000000000000
+      internalID: -4079473989088275981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155bd6db1fee4ba0800000000000000
+      internalID: -6102677542192589552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_127
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae45e78a8e055240800000000000000
+      internalID: 4779742567671877281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61b490b807436f0800000000000000
+      internalID: -705815499131644203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_129
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895bbba91c636f00800000000000000
+      internalID: 1108848790774438275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84146f29effb68360800000000000000
+      internalID: 7171630556742304072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_131
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339c093da4219c020800000000000000
+      internalID: 2362439592118896947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84e401412c45b80800000000000000
+      internalID: -8406881212965173085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44179c3fc1955f0800000000000000
+      internalID: -767550428107684655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ceaba7c27cf5f0800000000000000
+      internalID: -721575638381705894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24446d11b67261420800000000000000
+      internalID: 2600309175667278914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152ee5cca46cc470800000000000000
+      internalID: 8416212496866485529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c91df922c565f80800000000000000
+      internalID: -8118199974508782546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e456ad8a049190800000000000000
+      internalID: -7956723038159574893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d7b85f6c2e7c70800000000000000
+      internalID: 8970656364510040206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d0bae2734ee0d0800000000000000
+      internalID: -3391699308520615081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501da57c2bac75a90800000000000000
+      internalID: -7325163399697215227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e50ee627526a4a0800000000000000
+      internalID: -6582532631938703834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177e18fc79e4fa2e0800000000000000
+      internalID: -2112383286285047951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62546cabcc166b0800000000000000
+      internalID: -5304733783503329540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd3d7a7698a1fd0800000000000000
+      internalID: -2370431175566828683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c13b43b849ffc0800000000000000
+      internalID: -3460654903759617790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_147
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60e44dcce836fa0800000000000000
+      internalID: -5808642083991451960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4fb256c06c7e990800000000000000
+      internalID: -7356693709747129132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_149
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dac8fb9f5dbe610800000000000000
+      internalID: 1651648956998659366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_150
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e16a408cbfaf940800000000000000
+      internalID: 5330849945436429845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94471f5cd4c8a50800000000000000
+      internalID: 6524675472707832234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4167a001dd61e240800000000000000
+      internalID: 4819253820689703243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca5331941c84c10800000000000000
+      internalID: 2038091350984207613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249c51689ae7ac90800000000000000
+      internalID: -7158495142492728273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2b0cd385245db0800000000000000
+      internalID: -4804173654234813166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a59abc657586260800000000000000
+      internalID: 7091013643590523523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90938c753dc6a690800000000000000
+      internalID: -7591154492280434529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8103019e7ce23840800000000000000
+      internalID: 5202480547909271946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78149c0f443b7c060800000000000000
+      internalID: 6973739656685371783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e1b140e6ede670800000000000000
+      internalID: 8569759516805162905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2141efbc8718d00800000000000000
+      internalID: 973191812025160433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d97136ddb0ed60800000000000000
+      internalID: 7917536872568050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3d30b632c499a0800000000000000
+      internalID: -6227138844605727044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_164
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df01847a739c0860800000000000000
+      internalID: 7497529633814941649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f30dfbc74645750800000000000000
+      internalID: 6292765066300243750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_166
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace35ceedbb518e0800000000000000
+      internalID: -1723264716277289815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_167
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ead4587e209940800000000000000
+      internalID: 5300787855769659718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_168
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c68142df3f9fc30800000000000000
+      internalID: 4393811180034485312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c789e036c1af70800000000000000
+      internalID: 9196849827445982275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575d730b8cbf3ee50800000000000000
+      internalID: 6837585498647025013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de80ed199294cf0800000000000000
+      internalID: -267636996379710081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861d334fc875c0b0800000000000000
+      internalID: -5709024121040595313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c91ac5dbdd07bb0800000000000000
+      internalID: -4940204985852781494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d94e180f734a30800000000000000
+      internalID: 4198338950484056447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e7415dbbab42b0800000000000000
+      internalID: -5599192882104243904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588257221bbf66560800000000000000
+      internalID: 7306804183661095045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ef7950b7c5f590800000000000000
+      internalID: -7640981632534453281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_178
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f30bc9ac1668a0800000000000000
+      internalID: -6312326312132085785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_179
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b476acd628468da20800000000000000
+      internalID: 3087328055912982347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_180
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45f56858baf0d60800000000000000
+      internalID: 7858688464758199537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ab44e1df976690800000000000000
+      internalID: -7608937321592018667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_182
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f956015dbbbc110800000000000000
+      internalID: 1282325042694561608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f53976eeab9fa0800000000000000
+      internalID: -5792844190782720454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3fcca87d5b1dc0800000000000000
+      internalID: -3667234698686415403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8751b28ac998c430800000000000000
+      internalID: 3803458980369487759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a3895950b93620800000000000000
+      internalID: 2754426544914146935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168e246833045240800000000000000
+      internalID: 4779448645280761364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0113516e9392e0470800000000000000
+      internalID: 8362666886723612944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_189
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0979fb9b760df0800000000000000
+      internalID: -214348022417913325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833bbcc2dc4fc540800000000000000
+      internalID: 5030323777057796997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f04d09123c73e0800000000000000
+      internalID: -2054712246809857239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb088c44431b510800000000000000
+      internalID: 1563088015700573878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1b83cabdb758d0800000000000000
+      internalID: -2857606828701048895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_194
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac94ff5c88c16430800000000000000
+      internalID: 3774518467944029345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_195
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db92c9655106056a0800000000000000
+      internalID: -6462559820513007171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_196
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e17d2f781060a80800000000000000
+      internalID: -8501105563208835428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa089efc7a2a9180800000000000000
+      internalID: -9107920580067718496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165f2034b296f000800000000000000
+      internalID: 69404146870998555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea1ab0a2fe1e5b0800000000000000
+      internalID: -5340724719221887399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ba0734970b41d0800000000000000
+      internalID: -3365587963369310519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dde2486a2b42600800000000000000
+      internalID: 442675091641130371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf046cd87e3b5280800000000000000
+      internalID: -9053573937083707461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ba243ec55784e0800000000000000
+      internalID: -1979519167079206611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22fa80190a41ab0800000000000000
+      internalID: -5038225538344344915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_205
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f18cd88dbf77150800000000000000
+      internalID: 5870437546810941245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc84637e947000a0800000000000000
+      internalID: -6917400803751457600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacba15fb75737a50800000000000000
+      internalID: 6517682260988837034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_208
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ede2de5d2ba620800000000000000
+      internalID: 2786370679747765533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a52410a5fff85a0800000000000000
+      internalID: -6516709373748553149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_210
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e37d828f83e5410800000000000000
+      internalID: 1467673167057600024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_211
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba3937c10940be0800000000000000
+      internalID: -1511925123017102525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_212
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b37cd85405cc60800000000000000
+      internalID: 7837675506210419948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8723362198f41ac10800000000000000
+      internalID: 2063017554450002552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29a6ad00d1a0880800000000000000
+      internalID: -8644064645282622785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc5998edf5692d0800000000000000
+      internalID: -3272322669842412782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547eeb7346cf7630800000000000000
+      internalID: 3927075393234695259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f26d1789930140800000000000000
+      internalID: 4684756842988107770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb1b0736a9b8bf0800000000000000
+      internalID: -320993196543721969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_219
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2af16b121e50c20800000000000000
+      internalID: 3172189047458079476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275472fa35358bbe0800000000000000
+      internalID: -1461326460195748494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ee450a146ee32c0800000000000000
+      internalID: -4449866212258288034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63c076f373e4920800000000000000
+      internalID: 2976377149189797576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_223
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342efd7fed7b0bd80800000000000000
+      internalID: -8236881550191369661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_224
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1bf44720b7a5e90800000000000000
+      internalID: -7036176217341447765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_225
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1805dc456dafbd0800000000000000
+      internalID: -2595526575515467304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_226
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e72d2f073ae77890800000000000000
+      internalID: -7460236735517218846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_227
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d54de98a90c0c0800000000000000
+      internalID: -4557472905716968471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_228
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb70042135591e700800000000000000
+      internalID: 567899212046403519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8c548d6fbe7570800000000000000
+      internalID: 8466414826596109698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_230
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c8a95d6dbb6a60800000000000000
+      internalID: 7668431067881719815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_231
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3be349512944960800000000000000
+      internalID: 7585348293777863590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27b419d872bba00800000000000000
+      internalID: 773255250005684978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90929e10df2dcb470800000000000000
+      internalID: 8411830188121860361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc345dd8cb604b90800000000000000
+      internalID: -7259684088870323005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_235
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25bef9a9cc4d750800000000000000
+      internalID: 6328908340842418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcae670a97091180800000000000000
+      internalID: -9144269210268029701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f942be485788230800000000000000
+      internalID: 3641289512470224680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450d479958691ab0800000000000000
+      internalID: -5036879974237403839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_239
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98803c2a63aad00800000000000000
+      internalID: 984659541218593195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_240
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e180a91f8df7be70800000000000000
+      internalID: 9131045560569070055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd26bc9dce68c960800000000000000
+      internalID: 7622464198701100482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb6f479b9e50fc0800000000000000
+      internalID: -3529157750234366039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_243
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9263d2181d265e30800000000000000
+      internalID: 4491827259766956699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_244
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf928438fb323090800000000000000
+      internalID: -8056310846193492003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_245
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a7f62af49917f0800000000000000
+      internalID: -641317669807086614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_246
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb25296d7a326d0800000000000000
+      internalID: -3016382785388364555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_247
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd267a1a5c94880800000000000000
+      internalID: -8626146313162793202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_248
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb803ef24e2c200800000000000000
+      internalID: 198972227881320005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_249
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dcd6824157ecfc0800000000000000
+      internalID: -3472709533217993470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_250
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24061ccbd8987aad0800000000000000
+      internalID: -2691031010480398270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd57873d0b42978a0800000000000000
+      internalID: -6306969461274937893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_252
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf8a1785df8c3a0800000000000000
+      internalID: -6644782693879317581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_253
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388dc1ad499ddc920800000000000000
+      internalID: 3012302959118440579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_254
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362c016f3e3543d0800000000000000
+      internalID: -3223101516381673921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_255
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785011352780a4a0800000000000000
+      internalID: -6584114061408970631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_256
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706bea6e7ac615970800000000000000
+      internalID: 8741887820088391175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_257
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd10a3656da0600800000000000000
+      internalID: 435395979823407073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_258
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d2d69a1bee7b40800000000000000
+      internalID: 5440043899342214705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_259
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6d6cd988118fc0800000000000000
+      internalID: -3494484855475049318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_260
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8b4351d2b064be0800000000000000
+      internalID: -1493493938169530201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_261
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863d45d3a4899430800000000000000
+      internalID: 3790206400602125963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_262
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09a43525fff10c0800000000000000
+      internalID: -4602679565099560771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_263
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade80047877b1340800000000000000
+      internalID: 4835590047690976686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_264
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64431964afb66fb00800000000000000
+      internalID: 861995101357945926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkTileMap_265
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84122846a9f0efec0800000000000000
+      internalID: -3531367902026260152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

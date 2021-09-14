@@ -3,13 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossIdleBehaviour : StateMachineBehaviour
-{
-    // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
-    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    {
-        
-    }
-
+{//This class manages enemy bosses switch from idle to moving animation between switching states. (Start of boss battle)
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -17,29 +11,13 @@ public class BossIdleBehaviour : StateMachineBehaviour
         {
             animator.SetBool("WalkToPlayer", true);
             animator.SetBool("ShieldFromPlayer", false);
-        }
+        }//At the start of the boss battle, the boss will be standing still. When the player walks towards the boss...
+        //...(Pressing D key) then the boss will start to walk towards the player location.
+
         if (Input.GetKeyDown(KeyCode.S))
         {
             animator.SetBool("ShieldFromPlayer", true);
             animator.SetBool("WalkToPlayer", false);
-        }
-    }
-
-    // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    {
-        
-    }
-
-    // OnStateMove is called right after Animator.OnAnimatorMove()
-    //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    // Implement code that processes and affects root motion
-    //}
-
-    // OnStateIK is called right after Animator.OnAnimatorIK()
-    //override public void OnStateIK(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    // Implement code that sets up animation IK (inverse kinematics)
-    //}
+        }//When the player presses the S key, the boss will switch from idle to shielding/retreat state straight away.
+    }//end procedure
 }

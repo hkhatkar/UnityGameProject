@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 0cd6205f4a235cb4485c9b913910423f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4019336795551017164
+    second: MajorlyRun 2_0
+  - first:
+      213: 8174008178633386449
+    second: MajorlyRun 2_1
+  - first:
+      213: -5281461821196337196
+    second: MajorlyRun 2_2
+  - first:
+      213: 5476501594688343595
+    second: MajorlyRun 2_3
+  - first:
+      213: 6846919846360457020
+    second: MajorlyRun 2_4
+  - first:
+      213: -2367193233808227813
+    second: MajorlyRun 2_5
+  - first:
+      213: 1031899734936886681
+    second: MajorlyRun 2_6
+  - first:
+      213: 2631913071234584074
+    second: MajorlyRun 2_7
+  - first:
+      213: 6726518591018623781
+    second: MajorlyRun 2_8
+  - first:
+      213: -8915495290487924221
+    second: MajorlyRun 2_9
+  - first:
+      213: 223507880288327490
+    second: MajorlyRun 2_10
+  - first:
+      213: 1922385604014531642
+    second: MajorlyRun 2_11
+  - first:
+      213: 3801229139991350226
+    second: MajorlyRun 2_12
+  - first:
+      213: -3883692773520207919
+    second: MajorlyRun 2_13
+  - first:
+      213: -8877353001471403403
+    second: MajorlyRun 2_14
+  - first:
+      213: -6755566874642736563
+    second: MajorlyRun 2_15
+  - first:
+      213: -7426213549897150634
+    second: MajorlyRun 2_16
+  - first:
+      213: 9206063066991167076
+    second: MajorlyRun 2_17
+  - first:
+      213: -553220472610713510
+    second: MajorlyRun 2_18
+  - first:
+      213: 5557824496588368819
+    second: MajorlyRun 2_19
+  - first:
+      213: -3900217381759511891
+    second: MajorlyRun 2_20
+  - first:
+      213: -5462261866565772395
+    second: MajorlyRun 2_21
+  - first:
+      213: -6613810379784480586
+    second: MajorlyRun 2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MajorlyRun 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375684da727838c0800000000000000
+      internalID: -4019336795551017164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a4967129ef6170800000000000000
+      internalID: 8174008178633386449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dffdccb47a74b6b0800000000000000
+      internalID: -5281461821196337196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e42434f21700c40800000000000000
+      internalID: 5476501594688343595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f13efd255250f50800000000000000
+      internalID: 6846919846360457020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120728bb4a062fd0800000000000000
+      internalID: -2367193233808227813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d9bb8775b025e00800000000000000
+      internalID: 1031899734936886681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e05aa6efe668420800000000000000
+      internalID: 2631913071234584074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e9b81505695d50800000000000000
+      internalID: 6726518591018623781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9cc5054cc54480800000000000000
+      internalID: -8915495290487924221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2471611ab3f0a1300800000000000000
+      internalID: 223507880288327490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346c98858fadaa10800000000000000
+      internalID: 1922385604014531642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db4c0753cda0c430800000000000000
+      internalID: 3801229139991350226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8399cff95a1ac0800000000000000
+      internalID: -3883692773520207919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9c89ba7e4dc480800000000000000
+      internalID: -8877353001471403403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a168458b76f32a0800000000000000
+      internalID: -6755566874642736563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f00344f1ac0f890800000000000000
+      internalID: -7426213549897150634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660ad7659182cf70800000000000000
+      internalID: 9206063066991167076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50909749e09258f0800000000000000
+      internalID: -553220472610713510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2d1bdeeb512d40800000000000000
+      internalID: 5557824496588368819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29b6d94f4afd9c0800000000000000
+      internalID: -3900217381759511891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5f2dc5c52234b0800000000000000
+      internalID: -5462261866565772395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun 2_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8972540860734a0800000000000000
+      internalID: -6613810379784480586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

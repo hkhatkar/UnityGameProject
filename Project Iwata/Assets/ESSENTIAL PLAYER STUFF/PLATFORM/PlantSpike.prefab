@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7532808618732843604}
   - component: {fileID: 2563754389123555633}
   - component: {fileID: 2054079802476762690}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlantSpike
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -49,6 +49,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -60,6 +61,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -154,5 +156,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f830ff7430b705841a40a4ce7ef43393, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
   target: {fileID: 5507110140294274247}

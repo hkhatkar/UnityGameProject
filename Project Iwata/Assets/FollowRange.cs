@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class FollowRange : MonoBehaviour
-{
+{//This script is used to limit the range in which an enemy could follow you in
+ //If the enemy is outside this range, it will not follow you.
 
     public GameObject FollowScript;
     
@@ -11,31 +12,23 @@ public class FollowRange : MonoBehaviour
     void Start()
     {
         FollowScript.SetActive(false);
+        //disables enemy follow script by default
     }
 
-    // Update is called once per frame
-    void Update()
+
+    void OnTriggerStay(Collider Rangecol)
     {
         
-    }
-
-    void OnTriggerStay2D(Collider2D Rangecol)
-    {
         if (Rangecol.CompareTag("Player"))
-        {
-           // Debug.Log("InCollider");
+        {//If the player is in the enemy trigger zone (assigned in unity box collider)...
+         
             FollowScript.SetActive(true);
-
-
-            // force is how forcefully we will push the player away from the enemy.
-
-
-
-        }
-       
+            //The follow script will be set to true (EnemyFollow Script) and enemy will follow player
+            
+        }     
     }
-    private void OnTriggerExit2D(Collider2D collision)
-    {
+    private void OnTriggerExit(Collider collision)
+    {//When the player exits the enemy's trigger zone the script will deactivate and the player will not be followed
         FollowScript.SetActive(false);
-    }
-}
+    }//end procedure
+}//end class

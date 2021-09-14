@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WalkToPlayerBehaviour : StateMachineBehaviour
-{
+{//This class is responsible for controlling the animations and movement of walking state for enemy boss
     private Transform playerPos;
     public float speed;
     private Vector2 Pos;
+    //Declares variables
+
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -17,26 +19,10 @@ public class WalkToPlayerBehaviour : StateMachineBehaviour
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        Pos.y = -4;//NOT THE MOST EFFICIENT WAY OF MAKING  Y POSITION OF ENEMY CONSTANT SO FIX LATER ON
+        Pos.y = -4;//Sets the boss position to floor level
         animator.transform.position = Pos;
         Pos = Vector2.MoveTowards(animator.transform.position, playerPos.position, speed * Time.deltaTime);
+        //This moves the boss object towards the player's position
     }
-
-    // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    {
-        
-    }
-
-    // OnStateMove is called right after Animator.OnAnimatorMove()
-    //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    // Implement code that processes and affects root motion
-    //}
-
-    // OnStateIK is called right after Animator.OnAnimatorIK()
-    //override public void OnStateIK(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    // Implement code that sets up animation IK (inverse kinematics)
-    //}
-}
+    
+}//end class

@@ -305,9 +305,12 @@ MonoBehaviour:
   firePoint: {fileID: 1332519694}
   bulletPrefab: {fileID: 1060855416526614, guid: fbd09b68334915247901203ec3daa987,
     type: 3}
+  SmallbulletPrefab: {fileID: 0}
   crouching: {fileID: 0}
   startTimeBtwShots: 0
   cameraShake1: {fileID: 0}
+  BulletSwitch: {fileID: 0}
+  ShieldPivotObj: {fileID: 0}
 --- !u!61 &426218275
 BoxCollider2D:
   m_ObjectHideFlags: 0

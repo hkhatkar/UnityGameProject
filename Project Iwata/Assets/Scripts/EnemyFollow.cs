@@ -3,71 +3,127 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyFollow : MonoBehaviour
-{
-    public float FollowSpeed;
+{//EnemyFollow class is responsible for enemy type 1 and boss enemy so that the player can be tracked and chased
+    public float FollowSpeed= 7;
     private Transform target;
-    public float stoppingDistance;
+    public float crawlDistance;
+    public float chaseDistance;
     public Animator Enemy_animator;
-    public GameObject EnemyObject;
-   // public float health;
+    GameObject EnemyObject; //THIS IS NEEDED, REFERENCES WHOLE ENEMY NOT JUST THE FOLLOW SCRIPT INSIDE IT
+
     public GameObject PlatBullet;
-   // public GameObject blood;
-
-    
-
-
+    public bool StunEnemy = false;
+   
     // Start is called before the first frame update
     void Start()
     {
-        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        target = GameObject.Find("Player").GetComponent<Transform>();
+        EnemyObject = gameObject.transform.gameObject; //was parent
+
+        //target is assigned to the object tagged "Player" (which is the player)
     }
 
     // Update is called once per frame
     void Update()
     {
-      //  if(health <= 0)
-      //  {
-           //Debug.Log("Dead");
-     //       Destroy(EnemyObject);
-     //   }
-        if (Vector2.Distance(EnemyObject.transform.position, target.position) > stoppingDistance)
+
+        if (StunEnemy == true)
         {
-            EnemyObject.transform.position = Vector2.MoveTowards(transform.position, target.position, FollowSpeed * Time.deltaTime);
+            FollowSpeed = 0;
+            StartCoroutine(ExecuteAfterTime(1));
         }
 
-        if (target.position.x > 0)
+        else if (Vector3.Distance(EnemyObject.transform.position, target.position) > crawlDistance)
+        {//if the distance from the enemy to player is more than the distance that the enemy is required to stop
+            FollowSpeed = 0;
+            EnemyObject.transform.position = Vector3.MoveTowards(transform.position, target.position, FollowSpeed * Time.deltaTime);
+            //assign enemy object a vector 2 movement that will follow the target to its position
+        }
+        else if (Vector3.Distance(EnemyObject.transform.position, target.position) < chaseDistance)
         {
-            Enemy_animator.SetBool("PLATEnemyx", true);
+            FollowSpeed = 3;
+            EnemyObject.transform.position = Vector3.MoveTowards(transform.position, target.position, FollowSpeed * 3 * Time.deltaTime);
         }
         else
         {
+            FollowSpeed = 3;
+            EnemyObject.transform.position = Vector3.MoveTowards(transform.position, target.position, FollowSpeed * Time.deltaTime);
+        }
+        
+        
+
+        if (target.position.x > 0)
+        {//if the targets position is more than 0, the enemy animator will display the left facing animation for enemy
+            Enemy_animator.SetBool("PLATEnemyx", true);
+        }
+        else
+        {//else the enemy animator will display the right facing animation for enemy
             Enemy_animator.SetBool("PLATEnemyx", false);
         }
     }
+    
 
-   // void OnTriggerEnter2D(Collider2D bulletcol)
-   // {
-       // Debug.Log("Ind");
-     //   if(bulletcol.CompareTag("PlayerBullet"))
-     //   {
-            // Debug.Log("Hit");
-     //       if (Bullet.SwitchShot == true)
-     //       {
-     //           health -= 0.1f;
+    public void OnCollisionEnter(Collision col)
+    {
+        Debug.Log(col + "yeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeeyeyeyyeyeyeyeyeyeye");
+        //Debug.Log(col.gameObject);
+        if (col.gameObject.CompareTag("Player"))
 
-     //       }
-      //      else if (Bullet.SwitchShot == false)
-        //    {
+        {
+            Debug.Log("owwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
+            // FollowSpeed = 0;
+            StunEnemy = true;
+            // StartCoroutine(ExecuteAfterTime(1));
 
-        //        health -= 1;
 
-        //    }
-            
-        //    Instantiate(blood, transform.position, Quaternion.identity);
-           
-        //   Destroy(bulletcol.gameObject);
-      //  }
+
+        }
         
-  //  }
+    
+       
+       
+    }
+    public void OnTriggerEnter(Collider collision)
+    {
+        if(collision.gameObject.CompareTag("PlayerBullet"))
+       {
+            //  FollowSpeed = 0;
 
-}
+            // StartCoroutine(ExecuteAfterTime2(1));
+            // FollowSpeed = 3;
+          //  if (knockFromRight)
+          //  {//If the player is hit by an enemy from the right direction
+          //      rb.velocity = new Vector2(2, 0);//knock player back at opposite direction
+           // }
+           //  if (!knockFromRight)
+          //  {//If the player is hit by an enemy from the leftdirection
+          //      rb.velocity = new Vector2(-2, 0);//knock player back at opposite direction
+          //  }
+        }
+        
+         //   FollowSpeed = 3;
+        
+    }
+    public void OnTriggerExit(Collider collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+      //      FollowSpeed = 3;
+        }
+    }
+    
+    IEnumerator ExecuteAfterTime(float time)
+    {
+        //FollowSpeed = 0;
+        yield return new WaitForSeconds(time);     
+        //FollowSpeed = 3;
+        StunEnemy = false;
+    }
+  //  IEnumerator ExecuteAfterTime2(float time)
+  //  {
+        //FollowSpeed = 0;
+   //     yield return new WaitForSeconds(time);
+   //     FollowSpeed = 3;
+   // }
+
+}//end class

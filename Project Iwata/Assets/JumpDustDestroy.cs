@@ -8,11 +8,8 @@ public class JumpDustDestroy : MonoBehaviour
     void Start()
     {
         Destroy(gameObject, 1f);
+        //Destroys dust particles when jumping
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  
 }

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Slot : MonoBehaviour
-{
+{//This class is responsible for holding player inventory items in slots
 
     private Inventory inventory;
     public int slotNumber;
+    //Declare variables
 
     private void Start()
     {

@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class ChangeSceneCave1 : MonoBehaviour {
 
@@ -20,7 +22,8 @@ public class ChangeSceneCave1 : MonoBehaviour {
             guiObject.SetActive(true);
             if(guiObject.activeInHierarchy == true && Input.GetButtonDown("Use"))
             {
-                Application.LoadLevel(levelToLoad);
+               
+                SceneManager.LoadScene(levelToLoad);
             }
         }
 	}

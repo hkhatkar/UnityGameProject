@@ -19,6 +19,12 @@ TagManager:
   - Swing
   - GM
   - Water
+  - Grabbable
+  - NPC(Non interactable)
+  - Openable
+  - Hook
+  - 2.5Enemy
+  - StaminaUI
   layers:
   - Default
   - TransparentFX
@@ -45,13 +51,13 @@ TagManager:
   - Swing
   - Enemy
   - Shield
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Hook
+  - PostProcessing
+  - Explosion
+  - BackgroundTrees
+  - Tree
+  - Outlined
+  - MeleeSlash(Non Light affected)
   m_SortingLayers:
   - name: Default
     uniqueID: 0

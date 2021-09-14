@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 5712ca98ce643a14f81063e4d2416d9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1117432174339224259
+    second: MajorlyRun_0
+  - first:
+      213: 169088286464787506
+    second: MajorlyRun_1
+  - first:
+      213: 5759829698043536482
+    second: MajorlyRun_2
+  - first:
+      213: 4296391711803844654
+    second: MajorlyRun_3
+  - first:
+      213: -748355483115401551
+    second: MajorlyRun_4
+  - first:
+      213: 2447136010625315381
+    second: MajorlyRun_5
+  - first:
+      213: 4743523954408788662
+    second: MajorlyRun_6
+  - first:
+      213: 7052538453230771702
+    second: MajorlyRun_7
+  - first:
+      213: 5506821124464114966
+    second: MajorlyRun_8
+  - first:
+      213: 9148656881221468749
+    second: MajorlyRun_9
+  - first:
+      213: 5666783317940046935
+    second: MajorlyRun_10
+  - first:
+      213: -3435556558766160582
+    second: MajorlyRun_11
+  - first:
+      213: -5823881959977816583
+    second: MajorlyRun_0
+  - first:
+      213: 2083685948609370753
+    second: MajorlyRun_1
+  - first:
+      213: -8528620377098826743
+    second: MajorlyRun_2
+  - first:
+      213: 3615622268348557313
+    second: MajorlyRun_3
+  - first:
+      213: -8354885835190481949
+    second: MajorlyRun_4
+  - first:
+      213: 7691906917164869553
+    second: MajorlyRun_5
+  - first:
+      213: -5204296764670289646
+    second: MajorlyRun_6
+  - first:
+      213: -1523436092810013592
+    second: MajorlyRun_7
+  - first:
+      213: -9046476406402097009
+    second: MajorlyRun_8
+  - first:
+      213: 8548716169263640066
+    second: MajorlyRun_9
+  - first:
+      213: -720676690715967805
+    second: MajorlyRun_10
+  - first:
+      213: 6232674083623879941
+    second: MajorlyRun_11
+  - first:
+      213: -5896159423401393082
+    second: MajorlyRun_12
+  - first:
+      213: -3311166173559222444
+    second: MajorlyRun_12
+  - first:
+      213: -8627440619027245278
+    second: MajorlyRun_13
+  - first:
+      213: 1919658775004449170
+    second: MajorlyRun_14
+  - first:
+      213: 186506197532306896
+    second: MajorlyRun_15
+  - first:
+      213: 5772366969731196041
+    second: MajorlyRun_16
+  - first:
+      213: -4360158820709764877
+    second: MajorlyRun_17
+  - first:
+      213: 423752136956946877
+    second: MajorlyRun_13
+  - first:
+      213: 3984909899546532533
+    second: MajorlyRun_14
+  - first:
+      213: -9100297218468271087
+    second: MajorlyRun_15
+  - first:
+      213: 4206380363295299806
+    second: MajorlyRun_16
+  - first:
+      213: -8442753732426100923
+    second: MajorlyRun_17
+  - first:
+      213: 7718746773312650706
+    second: MajorlyRun_18
+  - first:
+      213: 8798322251195839581
+    second: MajorlyRun_19
+  - first:
+      213: 3158622885210366945
+    second: MajorlyRun_20
+  - first:
+      213: -8873390077912542070
+    second: MajorlyRun_21
+  - first:
+      213: -6027855473193844290
+    second: MajorlyRun_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MajorlyRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd67b1b63a6d2fa0800000000000000
+      internalID: -5823881959977816583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9556945dbaec10800000000000000
+      internalID: 2083685948609370753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccdde14f044a980800000000000000
+      internalID: -8528620377098826743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10868e2fb454d2230800000000000000
+      internalID: 3615622268348557313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4786599b7d0c80800000000000000
+      internalID: -8354885835190481949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76bf276942fba60800000000000000
+      internalID: 7691906917164869553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 490
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219dc148aaf96c7b0800000000000000
+      internalID: -5204296764670289646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864dc02f1faabdae0800000000000000
+      internalID: -1523436092810013592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80637f73a5747280800000000000000
+      internalID: -9046476406402097009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ee89a101423a670800000000000000
+      internalID: 8548716169263640066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce78fb3e54aff5f0800000000000000
+      internalID: -720676690715967805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054f239e08ee7650800000000000000
+      internalID: 6232674083623879941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f86b098ef5c02d0800000000000000
+      internalID: -3311166173559222444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9a12cc25871e500800000000000000
+      internalID: 423752136956946877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba9860d07e3d4730800000000000000
+      internalID: 3984909899546532533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c29be25ef35b180800000000000000
+      internalID: -9100297218468271087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8156077a0106a30800000000000000
+      internalID: 4206380363295299806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f83a4463055da80800000000000000
+      internalID: -8442753732426100923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3e7e6b4f7e1b60800000000000000
+      internalID: 7718746773312650706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5471f1d87be91a70800000000000000
+      internalID: 8798322251195839581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3226c67cea5db20800000000000000
+      internalID: 3158622885210366945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841c84ccb26bd480800000000000000
+      internalID: -8873390077912542070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajorlyRun_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb103e25261c85ca0800000000000000
+      internalID: -6027855473193844290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

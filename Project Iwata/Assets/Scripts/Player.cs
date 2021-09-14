@@ -2,111 +2,58 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : Character {
+public class Player : Character
+{//This is a simple movement class for the top down gameplay aspect
+
+    
 
     [SerializeField]
     private Stat health;
-
-    
     [SerializeField]
     private float initialHealth;
-
- 
-
-
+    //Declares two private variables that are assigned in Unity through SerializeField
 
     protected override void Start()
-    {
-        transform.position = GameManager.Instance.spawnLocation;
+    {//Start procedure 
+        transform.position = GameManager.Instance.spawnLocation; 
         health.Initialize(initialHealth, initialHealth);
-        base.Start();
-        
+        //transform.position is the position the player is located when the scene first starts up
+        //This relates to another class that varies the spawn location of the player depending on where they enter from
+        //health.Initialize refers to the stat class where the player's max health and current health are initialized
+        base.Start();     
     }
     
-
-    
-
-    
-  //ami,ator wass here
-
-  //direction vector 2 was here
-
-	// Use this for initialization
-	//void Start () {
-
-       //animatoer
-        //direction = Vector2.up;
-	//}
-	
-	// Update is called once per frame
-	protected override void Update () {
-
-     
+	protected override void Update ()
+    {
         GetInput();
-
-        base.Update();
-       
-
         
-
-        
-		
+        base.Update();      	
+        //For each frame update, the GetInput() function will be ran
 	}
 
-    //move was here
-    
-        //animate movement was here
-
-    private void GetInput()
+    private void GetInput() //FOR 2D only
     {
-       
-        direction = Vector2.zero;
-
-        //This is for debugging only!!////////
-
-        if (Input.GetKeyDown(KeyCode.I)) //damage
-        {
-            health.MyCurrentValue -= 10;
-        }
-        if (Input.GetKeyDown(KeyCode.O)) //heal
-        {
-            health.MyCurrentValue += 10;
-        }
-
-
-        //////////////////////////////////////
-
-
-        //use getkeydown if u want to not hold key down
+       // direction = Vector2.zero;
 
         if (Input.GetKey(KeyCode.S))
-        {
-            
-            direction += Vector2.down;
-            
+        {//When the player presses S a vector movement downwards is applied 
+            //direction += Vector2.down;       
         }
-
          if (Input.GetKey(KeyCode.W))
-        {
-            direction += Vector2.up;
-          
-
-        }
-       
-       
+        {//When the player presses W a vector movement upwards is applied 
+          //  direction += Vector2.up;
+        }      
         if (Input.GetKey(KeyCode.A))
-        {
-            direction += Vector2.left;
-        }
-         
-        
-
+        {//When the player presses A a vector movement left is applied 
+          //  direction += Vector2.left;
+        }         
         if (Input.GetKey(KeyCode.D))
-        {
-            direction += Vector2.right;
-        }
+        {//When the player presses D a vector movement right is applied 
+          //  direction += Vector2.right;
+        }     
+    }//end procedure
+
+    
 
 
-       
-    }
-}
+}//end class

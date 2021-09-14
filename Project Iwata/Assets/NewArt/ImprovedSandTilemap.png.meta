@@ -1,0 +1,6824 @@
+fileFormatVersion: 2
+guid: dc962dbe3e3c1e84dbfd103925eea9c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3291980651086405750
+    second: ImprovedSandTilemap_0
+  - first:
+      213: -7172327019664822351
+    second: ImprovedSandTilemap_1
+  - first:
+      213: 8593445656792490025
+    second: ImprovedSandTilemap_2
+  - first:
+      213: 8827695414881629020
+    second: ImprovedSandTilemap_3
+  - first:
+      213: -6858924278847462871
+    second: ImprovedSandTilemap_4
+  - first:
+      213: 6729606956621257893
+    second: ImprovedSandTilemap_5
+  - first:
+      213: 6170751424818957109
+    second: ImprovedSandTilemap_6
+  - first:
+      213: 8194703888916281675
+    second: ImprovedSandTilemap_7
+  - first:
+      213: 6716352996484378227
+    second: ImprovedSandTilemap_8
+  - first:
+      213: 2722009500812616604
+    second: ImprovedSandTilemap_9
+  - first:
+      213: -2802291498766816655
+    second: ImprovedSandTilemap_10
+  - first:
+      213: -4650411193499205851
+    second: ImprovedSandTilemap_11
+  - first:
+      213: 6884044313969615027
+    second: ImprovedSandTilemap_12
+  - first:
+      213: -1035735540805605526
+    second: ImprovedSandTilemap_13
+  - first:
+      213: -198483401441766953
+    second: ImprovedSandTilemap_14
+  - first:
+      213: 3107055712569153325
+    second: ImprovedSandTilemap_15
+  - first:
+      213: -1535858495572851621
+    second: ImprovedSandTilemap_16
+  - first:
+      213: 396050301204407825
+    second: ImprovedSandTilemap_17
+  - first:
+      213: 2227318955317340261
+    second: ImprovedSandTilemap_18
+  - first:
+      213: -6495193044285556520
+    second: ImprovedSandTilemap_19
+  - first:
+      213: -4643881879870130637
+    second: ImprovedSandTilemap_20
+  - first:
+      213: 5067706563954998705
+    second: ImprovedSandTilemap_21
+  - first:
+      213: 5464808433396492650
+    second: ImprovedSandTilemap_22
+  - first:
+      213: -1606197836560580829
+    second: ImprovedSandTilemap_23
+  - first:
+      213: -5935017036415268693
+    second: ImprovedSandTilemap_24
+  - first:
+      213: 428635679642013726
+    second: ImprovedSandTilemap_25
+  - first:
+      213: 2604794010711026224
+    second: ImprovedSandTilemap_26
+  - first:
+      213: 7369248426811993117
+    second: ImprovedSandTilemap_27
+  - first:
+      213: 1223722510029874055
+    second: ImprovedSandTilemap_28
+  - first:
+      213: -5824138457416157235
+    second: ImprovedSandTilemap_29
+  - first:
+      213: 3847292250240427872
+    second: ImprovedSandTilemap_30
+  - first:
+      213: -2807860290391383418
+    second: ImprovedSandTilemap_31
+  - first:
+      213: -6758310312923419595
+    second: ImprovedSandTilemap_32
+  - first:
+      213: 5071573095831858617
+    second: ImprovedSandTilemap_33
+  - first:
+      213: 1814644864539147390
+    second: ImprovedSandTilemap_34
+  - first:
+      213: 3436799779364877204
+    second: ImprovedSandTilemap_35
+  - first:
+      213: -2436645842149212758
+    second: ImprovedSandTilemap_36
+  - first:
+      213: -8196144997611679345
+    second: ImprovedSandTilemap_37
+  - first:
+      213: -108512441939156042
+    second: ImprovedSandTilemap_38
+  - first:
+      213: 3398289516548289022
+    second: ImprovedSandTilemap_39
+  - first:
+      213: 6095337807605283242
+    second: ImprovedSandTilemap_40
+  - first:
+      213: -4799639053946768142
+    second: ImprovedSandTilemap_41
+  - first:
+      213: 2697763134486331902
+    second: ImprovedSandTilemap_42
+  - first:
+      213: -52360964033667683
+    second: ImprovedSandTilemap_43
+  - first:
+      213: -5967399254523279890
+    second: ImprovedSandTilemap_44
+  - first:
+      213: 7053885975907594152
+    second: ImprovedSandTilemap_45
+  - first:
+      213: 5347163273600378082
+    second: ImprovedSandTilemap_46
+  - first:
+      213: -1401959389695844480
+    second: ImprovedSandTilemap_47
+  - first:
+      213: -8887584380145378746
+    second: ImprovedSandTilemap_48
+  - first:
+      213: 8021134752245113965
+    second: ImprovedSandTilemap_49
+  - first:
+      213: 1588017740384801530
+    second: ImprovedSandTilemap_50
+  - first:
+      213: -3331487945869354286
+    second: ImprovedSandTilemap_51
+  - first:
+      213: 1352088429409333052
+    second: ImprovedSandTilemap_52
+  - first:
+      213: -7763666866039214056
+    second: ImprovedSandTilemap_53
+  - first:
+      213: 5441542914728632935
+    second: ImprovedSandTilemap_54
+  - first:
+      213: -3295066589873624152
+    second: ImprovedSandTilemap_55
+  - first:
+      213: 6650399547027252231
+    second: ImprovedSandTilemap_56
+  - first:
+      213: 1467059318280010410
+    second: ImprovedSandTilemap_57
+  - first:
+      213: 4250582327823546700
+    second: ImprovedSandTilemap_58
+  - first:
+      213: -267927466921868470
+    second: ImprovedSandTilemap_59
+  - first:
+      213: -603775545345503081
+    second: ImprovedSandTilemap_60
+  - first:
+      213: -9115068378584065864
+    second: ImprovedSandTilemap_61
+  - first:
+      213: -8075226361717987642
+    second: ImprovedSandTilemap_62
+  - first:
+      213: 2343506683920057064
+    second: ImprovedSandTilemap_63
+  - first:
+      213: 3268615393156460706
+    second: ImprovedSandTilemap_64
+  - first:
+      213: 6731569962407499903
+    second: ImprovedSandTilemap_65
+  - first:
+      213: 4317810684539572202
+    second: ImprovedSandTilemap_66
+  - first:
+      213: 7581815503517357253
+    second: ImprovedSandTilemap_67
+  - first:
+      213: 3295660932538340192
+    second: ImprovedSandTilemap_68
+  - first:
+      213: 8089005292678242345
+    second: ImprovedSandTilemap_69
+  - first:
+      213: 2407265583176296454
+    second: ImprovedSandTilemap_70
+  - first:
+      213: 3496290521917593196
+    second: ImprovedSandTilemap_71
+  - first:
+      213: 84822815072728051
+    second: ImprovedSandTilemap_72
+  - first:
+      213: 7780084138746876136
+    second: ImprovedSandTilemap_73
+  - first:
+      213: 879924112651391489
+    second: ImprovedSandTilemap_74
+  - first:
+      213: -1655226197305171082
+    second: ImprovedSandTilemap_75
+  - first:
+      213: -9148679128931113738
+    second: ImprovedSandTilemap_76
+  - first:
+      213: 5145932470459817775
+    second: ImprovedSandTilemap_77
+  - first:
+      213: -2522736510084540086
+    second: ImprovedSandTilemap_78
+  - first:
+      213: -1117490516856123277
+    second: ImprovedSandTilemap_79
+  - first:
+      213: 4468381792679079331
+    second: ImprovedSandTilemap_80
+  - first:
+      213: 7816332823114568108
+    second: ImprovedSandTilemap_81
+  - first:
+      213: 6843074727663529340
+    second: ImprovedSandTilemap_82
+  - first:
+      213: -4937889715531193472
+    second: ImprovedSandTilemap_83
+  - first:
+      213: -745985611227970944
+    second: ImprovedSandTilemap_84
+  - first:
+      213: 5485500553134583905
+    second: ImprovedSandTilemap_85
+  - first:
+      213: 3518289976994580633
+    second: ImprovedSandTilemap_86
+  - first:
+      213: -642510117236011371
+    second: ImprovedSandTilemap_87
+  - first:
+      213: -7750214480719785596
+    second: ImprovedSandTilemap_88
+  - first:
+      213: -8332470540397163743
+    second: ImprovedSandTilemap_89
+  - first:
+      213: 6784301088865918254
+    second: ImprovedSandTilemap_90
+  - first:
+      213: -2809694216722658921
+    second: ImprovedSandTilemap_91
+  - first:
+      213: -1806208527068676078
+    second: ImprovedSandTilemap_92
+  - first:
+      213: 7346166004623318262
+    second: ImprovedSandTilemap_93
+  - first:
+      213: -1304776444661414175
+    second: ImprovedSandTilemap_94
+  - first:
+      213: -240595350319696467
+    second: ImprovedSandTilemap_95
+  - first:
+      213: -7279477046208075144
+    second: ImprovedSandTilemap_96
+  - first:
+      213: 4108360036745870050
+    second: ImprovedSandTilemap_97
+  - first:
+      213: 8707057725660836553
+    second: ImprovedSandTilemap_98
+  - first:
+      213: 5912129854178101251
+    second: ImprovedSandTilemap_99
+  - first:
+      213: 4029975001222022889
+    second: ImprovedSandTilemap_100
+  - first:
+      213: -3901528552248080321
+    second: ImprovedSandTilemap_101
+  - first:
+      213: -258681681578440232
+    second: ImprovedSandTilemap_102
+  - first:
+      213: -3718257479338707418
+    second: ImprovedSandTilemap_103
+  - first:
+      213: 7781005751952665266
+    second: ImprovedSandTilemap_104
+  - first:
+      213: 3718052725173328319
+    second: ImprovedSandTilemap_105
+  - first:
+      213: -4381891387099866237
+    second: ImprovedSandTilemap_106
+  - first:
+      213: -2213727896725231347
+    second: ImprovedSandTilemap_107
+  - first:
+      213: -7459375641019031813
+    second: ImprovedSandTilemap_108
+  - first:
+      213: -770898934849891063
+    second: ImprovedSandTilemap_109
+  - first:
+      213: 5433999256083834364
+    second: ImprovedSandTilemap_110
+  - first:
+      213: -2393981401989380506
+    second: ImprovedSandTilemap_111
+  - first:
+      213: -6689110578150263171
+    second: ImprovedSandTilemap_112
+  - first:
+      213: -1627255664033173943
+    second: ImprovedSandTilemap_113
+  - first:
+      213: 3312100815634192379
+    second: ImprovedSandTilemap_114
+  - first:
+      213: 1419008672563579491
+    second: ImprovedSandTilemap_115
+  - first:
+      213: 216754742547587216
+    second: ImprovedSandTilemap_116
+  - first:
+      213: -4736895994627418603
+    second: ImprovedSandTilemap_117
+  - first:
+      213: -6642885919319193329
+    second: ImprovedSandTilemap_118
+  - first:
+      213: -3420878800497359921
+    second: ImprovedSandTilemap_119
+  - first:
+      213: -7941433616798523100
+    second: ImprovedSandTilemap_120
+  - first:
+      213: 576069291832589675
+    second: ImprovedSandTilemap_121
+  - first:
+      213: 3569855272408921263
+    second: ImprovedSandTilemap_122
+  - first:
+      213: 1841499267107958820
+    second: ImprovedSandTilemap_123
+  - first:
+      213: 5404746178037989578
+    second: ImprovedSandTilemap_124
+  - first:
+      213: -4483491528680031760
+    second: ImprovedSandTilemap_125
+  - first:
+      213: 9183208368616994106
+    second: ImprovedSandTilemap_126
+  - first:
+      213: -4420975858455494184
+    second: ImprovedSandTilemap_127
+  - first:
+      213: 6198175334109963697
+    second: ImprovedSandTilemap_128
+  - first:
+      213: 6157781068823070948
+    second: ImprovedSandTilemap_129
+  - first:
+      213: -1387977535800793864
+    second: ImprovedSandTilemap_130
+  - first:
+      213: -5546419157424582403
+    second: ImprovedSandTilemap_131
+  - first:
+      213: -3467280797869587686
+    second: ImprovedSandTilemap_132
+  - first:
+      213: -3529454479475511257
+    second: ImprovedSandTilemap_133
+  - first:
+      213: -2914009582567049105
+    second: ImprovedSandTilemap_134
+  - first:
+      213: -8633668067498927045
+    second: ImprovedSandTilemap_135
+  - first:
+      213: -1899205429714108783
+    second: ImprovedSandTilemap_136
+  - first:
+      213: 8709778116263829190
+    second: ImprovedSandTilemap_137
+  - first:
+      213: 1696844811036276519
+    second: ImprovedSandTilemap_138
+  - first:
+      213: -2750550670738022288
+    second: ImprovedSandTilemap_139
+  - first:
+      213: 488172308515181508
+    second: ImprovedSandTilemap_140
+  - first:
+      213: 1985262155637310598
+    second: ImprovedSandTilemap_141
+  - first:
+      213: -1613369121394694694
+    second: ImprovedSandTilemap_142
+  - first:
+      213: -5295708675170755835
+    second: ImprovedSandTilemap_143
+  - first:
+      213: 1927088919993305119
+    second: ImprovedSandTilemap_144
+  - first:
+      213: 6210748079734699272
+    second: ImprovedSandTilemap_145
+  - first:
+      213: 4899415525163925730
+    second: ImprovedSandTilemap_146
+  - first:
+      213: 5042503520598714154
+    second: ImprovedSandTilemap_147
+  - first:
+      213: 8558985586213541944
+    second: ImprovedSandTilemap_148
+  - first:
+      213: -9141834429609745548
+    second: ImprovedSandTilemap_149
+  - first:
+      213: 3296183710013823694
+    second: ImprovedSandTilemap_150
+  - first:
+      213: -8333602764213440604
+    second: ImprovedSandTilemap_151
+  - first:
+      213: 8409150294367525800
+    second: ImprovedSandTilemap_152
+  - first:
+      213: 1819917981127194642
+    second: ImprovedSandTilemap_153
+  - first:
+      213: -313238664500397036
+    second: ImprovedSandTilemap_154
+  - first:
+      213: -2172876378397293122
+    second: ImprovedSandTilemap_155
+  - first:
+      213: 151179013701018772
+    second: ImprovedSandTilemap_156
+  - first:
+      213: 1181130629174397688
+    second: ImprovedSandTilemap_157
+  - first:
+      213: 7352166672635638715
+    second: ImprovedSandTilemap_158
+  - first:
+      213: 3564408140502198603
+    second: ImprovedSandTilemap_159
+  - first:
+      213: 8955237753634456282
+    second: ImprovedSandTilemap_160
+  - first:
+      213: 809504552990170283
+    second: ImprovedSandTilemap_161
+  - first:
+      213: 2320926792082714752
+    second: ImprovedSandTilemap_162
+  - first:
+      213: -7747204886523165388
+    second: ImprovedSandTilemap_163
+  - first:
+      213: -7923603300052082906
+    second: ImprovedSandTilemap_164
+  - first:
+      213: 2007666137925134268
+    second: ImprovedSandTilemap_165
+  - first:
+      213: -389404815385792650
+    second: ImprovedSandTilemap_166
+  - first:
+      213: -9014149649533274973
+    second: ImprovedSandTilemap_167
+  - first:
+      213: 716855429814438025
+    second: ImprovedSandTilemap_168
+  - first:
+      213: -4073330096997639207
+    second: ImprovedSandTilemap_169
+  - first:
+      213: -4896049140241678132
+    second: ImprovedSandTilemap_170
+  - first:
+      213: 6546830241436331698
+    second: ImprovedSandTilemap_171
+  - first:
+      213: 6238176410708942361
+    second: ImprovedSandTilemap_172
+  - first:
+      213: -3837932322204666946
+    second: ImprovedSandTilemap_173
+  - first:
+      213: 1059079225669355059
+    second: ImprovedSandTilemap_174
+  - first:
+      213: 1384855035220633435
+    second: ImprovedSandTilemap_175
+  - first:
+      213: -2052226873183439236
+    second: ImprovedSandTilemap_176
+  - first:
+      213: 8629158361574602938
+    second: ImprovedSandTilemap_177
+  - first:
+      213: 7828831003104205171
+    second: ImprovedSandTilemap_178
+  - first:
+      213: 6370507335631105078
+    second: ImprovedSandTilemap_179
+  - first:
+      213: -132327102783094780
+    second: ImprovedSandTilemap_180
+  - first:
+      213: 555011907004803847
+    second: ImprovedSandTilemap_181
+  - first:
+      213: 264940167724749627
+    second: ImprovedSandTilemap_182
+  - first:
+      213: 8021569783207164365
+    second: ImprovedSandTilemap_183
+  - first:
+      213: -7621086932427120467
+    second: ImprovedSandTilemap_184
+  - first:
+      213: 4644029320452173533
+    second: ImprovedSandTilemap_185
+  - first:
+      213: 4721941963256222081
+    second: ImprovedSandTilemap_186
+  - first:
+      213: 8060599470116010931
+    second: ImprovedSandTilemap_187
+  - first:
+      213: 7214772332941185024
+    second: ImprovedSandTilemap_188
+  - first:
+      213: -1419549654982893235
+    second: ImprovedSandTilemap_189
+  - first:
+      213: 7406565604626522200
+    second: ImprovedSandTilemap_190
+  - first:
+      213: -3202150302539164219
+    second: ImprovedSandTilemap_191
+  - first:
+      213: 8777703256686791469
+    second: ImprovedSandTilemap_192
+  - first:
+      213: 7974254878669232829
+    second: ImprovedSandTilemap_193
+  - first:
+      213: -3624855132753649950
+    second: ImprovedSandTilemap_194
+  - first:
+      213: 5848101907424419422
+    second: ImprovedSandTilemap_195
+  - first:
+      213: 8392571547455632284
+    second: ImprovedSandTilemap_196
+  - first:
+      213: 5838953967289756300
+    second: ImprovedSandTilemap_197
+  - first:
+      213: -775273653491287008
+    second: ImprovedSandTilemap_198
+  - first:
+      213: 4134946265076303616
+    second: ImprovedSandTilemap_199
+  - first:
+      213: -4732151191736653007
+    second: ImprovedSandTilemap_200
+  - first:
+      213: -7550246789666251191
+    second: ImprovedSandTilemap_201
+  - first:
+      213: -7984075541725924190
+    second: ImprovedSandTilemap_202
+  - first:
+      213: -7966693095012172027
+    second: ImprovedSandTilemap_203
+  - first:
+      213: -3672224882770601519
+    second: ImprovedSandTilemap_204
+  - first:
+      213: -9004833705690960972
+    second: ImprovedSandTilemap_205
+  - first:
+      213: -1211391972280334069
+    second: ImprovedSandTilemap_206
+  - first:
+      213: -7144041811668468049
+    second: ImprovedSandTilemap_207
+  - first:
+      213: -5646114349495736680
+    second: ImprovedSandTilemap_208
+  - first:
+      213: 1649741128465417924
+    second: ImprovedSandTilemap_209
+  - first:
+      213: 9114571719937756845
+    second: ImprovedSandTilemap_210
+  - first:
+      213: 3123426755025097261
+    second: ImprovedSandTilemap_211
+  - first:
+      213: 7147329423722831904
+    second: ImprovedSandTilemap_212
+  - first:
+      213: 5187017967754543942
+    second: ImprovedSandTilemap_213
+  - first:
+      213: -3204401761237482033
+    second: ImprovedSandTilemap_214
+  - first:
+      213: -4802386681033395299
+    second: ImprovedSandTilemap_215
+  - first:
+      213: 6485603276646533313
+    second: ImprovedSandTilemap_216
+  - first:
+      213: -2137812949724743363
+    second: ImprovedSandTilemap_217
+  - first:
+      213: -88225292641580300
+    second: ImprovedSandTilemap_218
+  - first:
+      213: -6833115984235624829
+    second: ImprovedSandTilemap_219
+  - first:
+      213: -303799921343864614
+    second: ImprovedSandTilemap_220
+  - first:
+      213: -4587891214984543447
+    second: ImprovedSandTilemap_221
+  - first:
+      213: 5055373918870340843
+    second: ImprovedSandTilemap_222
+  - first:
+      213: -2230243741585594029
+    second: ImprovedSandTilemap_223
+  - first:
+      213: 1597912661583055354
+    second: ImprovedSandTilemap_224
+  - first:
+      213: -8021990451113566867
+    second: ImprovedSandTilemap_225
+  - first:
+      213: -3281462993651532866
+    second: ImprovedSandTilemap_226
+  - first:
+      213: -669459726565874264
+    second: ImprovedSandTilemap_227
+  - first:
+      213: -8604116541380861986
+    second: ImprovedSandTilemap_228
+  - first:
+      213: -6081117664876215151
+    second: ImprovedSandTilemap_229
+  - first:
+      213: -4961516420252808784
+    second: ImprovedSandTilemap_230
+  - first:
+      213: 6235172809315499766
+    second: ImprovedSandTilemap_231
+  - first:
+      213: 978074098562842125
+    second: ImprovedSandTilemap_232
+  - first:
+      213: 3010312068572576237
+    second: ImprovedSandTilemap_233
+  - first:
+      213: -5656192737988127164
+    second: ImprovedSandTilemap_234
+  - first:
+      213: 326775417949800420
+    second: ImprovedSandTilemap_235
+  - first:
+      213: -5618649923694107531
+    second: ImprovedSandTilemap_236
+  - first:
+      213: 4886265463349335693
+    second: ImprovedSandTilemap_237
+  - first:
+      213: -2496380389069389008
+    second: ImprovedSandTilemap_238
+  - first:
+      213: -2698405567453698505
+    second: ImprovedSandTilemap_239
+  - first:
+      213: 8712819516988435217
+    second: ImprovedSandTilemap_240
+  - first:
+      213: -5297809541522947180
+    second: ImprovedSandTilemap_241
+  - first:
+      213: -4631923070397237742
+    second: ImprovedSandTilemap_242
+  - first:
+      213: 7829514069719781419
+    second: ImprovedSandTilemap_243
+  - first:
+      213: -7824547340247612762
+    second: ImprovedSandTilemap_244
+  - first:
+      213: -8452809644488206442
+    second: ImprovedSandTilemap_245
+  - first:
+      213: -7394128938723996678
+    second: ImprovedSandTilemap_246
+  - first:
+      213: 6349089871899327769
+    second: ImprovedSandTilemap_247
+  - first:
+      213: 8207228837864525800
+    second: ImprovedSandTilemap_248
+  - first:
+      213: -2829100738038761480
+    second: ImprovedSandTilemap_249
+  - first:
+      213: -1069644116069470831
+    second: ImprovedSandTilemap_250
+  - first:
+      213: 6517274627027403695
+    second: ImprovedSandTilemap_251
+  - first:
+      213: -2293138146019176681
+    second: ImprovedSandTilemap_252
+  - first:
+      213: 4410146675226457860
+    second: ImprovedSandTilemap_253
+  - first:
+      213: 923664316647965559
+    second: ImprovedSandTilemap_254
+  - first:
+      213: -6029445671376561745
+    second: ImprovedSandTilemap_255
+  - first:
+      213: -4206950884155859928
+    second: ImprovedSandTilemap_256
+  - first:
+      213: 7871921771002970987
+    second: ImprovedSandTilemap_257
+  - first:
+      213: 3067048827866260391
+    second: ImprovedSandTilemap_258
+  - first:
+      213: 3745203524383110930
+    second: ImprovedSandTilemap_259
+  - first:
+      213: 3275507765682137968
+    second: ImprovedSandTilemap_260
+  - first:
+      213: -8811318712402244927
+    second: ImprovedSandTilemap_261
+  - first:
+      213: 579668231291267862
+    second: ImprovedSandTilemap_262
+  - first:
+      213: -6694074187891114118
+    second: ImprovedSandTilemap_263
+  - first:
+      213: -8644666079842042985
+    second: ImprovedSandTilemap_264
+  - first:
+      213: 303072047176547636
+    second: ImprovedSandTilemap_265
+  - first:
+      213: -7271420345658351836
+    second: ImprovedSandTilemap_266
+  - first:
+      213: 7177732136504980288
+    second: ImprovedSandTilemap_267
+  - first:
+      213: 1139693084829795251
+    second: ImprovedSandTilemap_268
+  - first:
+      213: -7721104535597307058
+    second: ImprovedSandTilemap_269
+  - first:
+      213: 2360885211750343502
+    second: ImprovedSandTilemap_270
+  - first:
+      213: -2000933254508668279
+    second: ImprovedSandTilemap_271
+  - first:
+      213: 7406546179630877228
+    second: ImprovedSandTilemap_272
+  - first:
+      213: -4788456834869789833
+    second: ImprovedSandTilemap_273
+  - first:
+      213: -8679499248047414977
+    second: ImprovedSandTilemap_274
+  - first:
+      213: -6340277283551609996
+    second: ImprovedSandTilemap_275
+  - first:
+      213: 2683204418243048267
+    second: ImprovedSandTilemap_276
+  - first:
+      213: 2789332405779465492
+    second: ImprovedSandTilemap_277
+  - first:
+      213: -4087689858672802091
+    second: ImprovedSandTilemap_278
+  - first:
+      213: 7245434653800316233
+    second: ImprovedSandTilemap_279
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f198c1a098052d0800000000000000
+      internalID: -3291980651086405750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf21f38396c67c90800000000000000
+      internalID: -7172327019664822351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9206db97b4d024770800000000000000
+      internalID: 8593445656792490025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c533d5d6536428a70800000000000000
+      internalID: 8827695414881629020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922aef165b430d0a0800000000000000
+      internalID: -6858924278847462871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac586f3fdd546d50800000000000000
+      internalID: 6729606956621257893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc1911ab9e2a550800000000000000
+      internalID: 6170751424818957109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49fd5205cf69b170800000000000000
+      internalID: 8194703888916281675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee49d2777453d50800000000000000
+      internalID: 6716352996484378227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ac2b183586c520800000000000000
+      internalID: 2722009500812616604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a28e2aab24c19d0800000000000000
+      internalID: -2802291498766816655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbaff88ab667fb0800000000000000
+      internalID: -4650411193499205851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e43094d9098f50800000000000000
+      internalID: 6884044313969615027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 629
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e801630450a1f0800000000000000
+      internalID: -1035735540805605526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19043e568de3df0800000000000000
+      internalID: -198483401441766953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27580d65ba7e1b20800000000000000
+      internalID: 3107055712569153325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544d1ae5d88faae0800000000000000
+      internalID: -1535858495572851621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116a97c86ad0f7500800000000000000
+      internalID: 396050301204407825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682f2df9c609ee10800000000000000
+      internalID: 2227318955317340261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d875c7d6507cd5a0800000000000000
+      internalID: -6495193044285556520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b77bd80e9d8fb0800000000000000
+      internalID: -4643881879870130637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf372254c145640800000000000000
+      internalID: 5067706563954998705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69282ef056e6db40800000000000000
+      internalID: 5464808433396492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3ec0e393a5b9e0800000000000000
+      internalID: -1606197836560580829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88390537592ada0800000000000000
+      internalID: -5935017036415268693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10de1f21e1d2f500800000000000000
+      internalID: 428635679642013726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aee791a56162420800000000000000
+      internalID: 2604794010711026224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 597
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2cb57664d44660800000000000000
+      internalID: 7369248426811993117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783eaf9a3298bf010800000000000000
+      internalID: 1223722510029874055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b40b3ee08c2fa0800000000000000
+      internalID: -5824138457416157235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a1b2fae3546530800000000000000
+      internalID: 3847292250240427872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682eb4c41f97809d0800000000000000
+      internalID: -2807860290391383418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2754d398a532a0800000000000000
+      internalID: -6758310312923419595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6c7d3cd8d16640800000000000000
+      internalID: 5071573095831858617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb750d3e9ee2910800000000000000
+      internalID: 1814644864539147390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933f2db037f1bf20800000000000000
+      internalID: 3436799779364877204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7347348b4f2ed0800000000000000
+      internalID: -2436645842149212758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d2c9bc81714e80800000000000000
+      internalID: -8196144997611679345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a18c428c7e7ef0800000000000000
+      internalID: -108512441939156042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17bc57f46292f20800000000000000
+      internalID: 3398289516548289022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93258017df69450800000000000000
+      internalID: 6095337807605283242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f43963c5b1446db0800000000000000
+      internalID: -4799639053946768142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c3370741607520800000000000000
+      internalID: 2697763134486331902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d1daa0bf9f54ff0800000000000000
+      internalID: -52360964033667683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58531aef98f2da0800000000000000
+      internalID: -5967399254523279890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe4180cef64e160800000000000000
+      internalID: 7053885975907594152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e427f6baa0f43a40800000000000000
+      internalID: 5347163273600378082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fd7abec5d3b8ce0800000000000000
+      internalID: -1401959389695844480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64adf1e3815f8a480800000000000000
+      internalID: -8887584380145378746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646c133f8bc05f60800000000000000
+      internalID: 8021134752245113965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af297a0a8b5c90610800000000000000
+      internalID: 1588017740384801530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da16fc3d5d24c1d0800000000000000
+      internalID: -3331487945869354286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3febdb434593c210800000000000000
+      internalID: 1352088429409333052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81033477e1ae14490800000000000000
+      internalID: -7763666866039214056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a17e437e348b40800000000000000
+      internalID: 5441542914728632935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 533
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab235ff4629542d0800000000000000
+      internalID: -3295066589873624152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7046af61727fa4c50800000000000000
+      internalID: 6650399547027252231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab18a5daa0c5410800000000000000
+      internalID: 1467059318280010410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b97a4b1a1dfa30800000000000000
+      internalID: 4250582327823546700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a434d8c6361284cf0800000000000000
+      internalID: -267927466921868470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7901d972755fe97f0800000000000000
+      internalID: -603775545345503081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d9177a95c08180800000000000000
+      internalID: -9115068378584065864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6edec88680fef80800000000000000
+      internalID: -8075226361717987642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e20fcf99eec58020800000000000000
+      internalID: 2343506683920057064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f678d1647c5d20800000000000000
+      internalID: 3268615393156460706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781df527375b6d50800000000000000
+      internalID: 6731569962407499903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0e5bd0f1fbeb30800000000000000
+      internalID: 4317810684539572202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c493bfb705083960800000000000000
+      internalID: 7581815503517357253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0639410382a8cbd20800000000000000
+      internalID: 3295660932538340192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9206750d47be14070800000000000000
+      internalID: 8089005292678242345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082f3d2b43586120800000000000000
+      internalID: 2407265583176296454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66967e94b1558030800000000000000
+      internalID: 3496290521917593196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33241a6e95d2100800000000000000
+      internalID: 84822815072728051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e098a4bd4968fb60800000000000000
+      internalID: 7780084138746876136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10213e3815e163c00800000000000000
+      internalID: 879924112651391489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67364b61b847709e0800000000000000
+      internalID: -1655226197305171082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e704ddcc590180800000000000000
+      internalID: -9148679128931113738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd7eb41560a6740800000000000000
+      internalID: 5145932470459817775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49908692807dfcd0800000000000000
+      internalID: -2522736510084540086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705ceeab40ed70f0800000000000000
+      internalID: -1117490516856123277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada571e091e20e30800000000000000
+      internalID: 4468381792679079331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca158f73a41397c60800000000000000
+      internalID: 7816332823114568108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d66d9653c77fe50800000000000000
+      internalID: 6843074727663529340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08365bd3777197bb0800000000000000
+      internalID: -4937889715531193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082443bf90ab5a5f0800000000000000
+      internalID: -745985611227970944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bbcc80b9602c40800000000000000
+      internalID: 5485500553134583905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984497e71a73d030800000000000000
+      internalID: 3518289976994580633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e8d89d3785517f0800000000000000
+      internalID: -642510117236011371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481db9ffdf4b17490800000000000000
+      internalID: -7750214480719785596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b483ad03e1d5c80800000000000000
+      internalID: -8332470540397163743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d162345eda62e50800000000000000
+      internalID: 6784301088865918254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c6cc0ff5f109d0800000000000000
+      internalID: -2809694216722658921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104ac11aee0fe6e0800000000000000
+      internalID: -1806208527068676078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9f9e3f03d2f560800000000000000
+      internalID: 7346166004623318262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c8a09cb084ede0800000000000000
+      internalID: -1304776444661414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57599bdcb39acf0800000000000000
+      internalID: -240595350319696467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a682ed13a1afa90800000000000000
+      internalID: -7279477046208075144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf5a7bfa3d30930800000000000000
+      internalID: 4108360036745870050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b5d89edea5d870800000000000000
+      internalID: 8707057725660836553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308844057ca1c0250800000000000000
+      internalID: 5912129854178101251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60b8179e85de730800000000000000
+      internalID: 4029975001222022889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388532f37cfad9c0800000000000000
+      internalID: -3901528552248080321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9cd93916af86cf0800000000000000
+      internalID: -258681681578440232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626b390d588166cc0800000000000000
+      internalID: -3718257479338707418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bae860818fabfb60800000000000000
+      internalID: 7781005751952665266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91124214d299330800000000000000
+      internalID: 3718052725173328319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b919beff46033c0800000000000000
+      internalID: -4381891387099866237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e15ee4324741e0800000000000000
+      internalID: -2213727896725231347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfedbde3069fa7890800000000000000
+      internalID: -7459375641019031813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9059b8ec0873d45f0800000000000000
+      internalID: -770898934849891063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52d986881796b40800000000000000
+      internalID: 5433999256083834364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660887499ed6ced0800000000000000
+      internalID: -2393981401989380506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76bb0e9e518b23a0800000000000000
+      internalID: -6689110578150263171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6f8a5893da69e0800000000000000
+      internalID: -1627255664033173943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75820c422f6fd20800000000000000
+      internalID: 3312100815634192379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac9559ed451b310800000000000000
+      internalID: 1419008672563579491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902ee83a41120300800000000000000
+      internalID: 216754742547587216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5161346a03a234eb0800000000000000
+      internalID: -4736895994627418603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09098fa37abfc3a0800000000000000
+      internalID: -6642885919319193329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c0b40bd89680d0800000000000000
+      internalID: -3420878800497359921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e067733c5ac190800000000000000
+      internalID: -7941433616798523100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d31b108fb9ef700800000000000000
+      internalID: 576069291832589675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43d73d47caa8130800000000000000
+      internalID: 3569855272408921263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420bc16a3d15e8910800000000000000
+      internalID: 1841499267107958820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ca1b6304810b40800000000000000
+      internalID: 5404746178037989578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9bd8f853077c1c0800000000000000
+      internalID: -4483491528680031760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357fc54b5f417f70800000000000000
+      internalID: 9183208368616994106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ce2c41e985a2c0800000000000000
+      internalID: -4420975858455494184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5663580a7540650800000000000000
+      internalID: 6198175334109963697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e803dbb145d47550800000000000000
+      internalID: 6157781068823070948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42f56f8c9ecbce0800000000000000
+      internalID: -1387977535800793864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0594a99292703b0800000000000000
+      internalID: -5546419157424582403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13437a1c7eb1efc0800000000000000
+      internalID: -3467280797869587686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72073fbc9dbd40fc0800000000000000
+      internalID: -3529454479475511257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b10749bb5f87d0800000000000000
+      internalID: -2914009582567049105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd710c2ac0f2880800000000000000
+      internalID: -8633668067498927045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb56e59baa4a5e0800000000000000
+      internalID: -1899205429714108783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5064ec095fd870800000000000000
+      internalID: 8709778116263829190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72738c88d576c8710800000000000000
+      internalID: 1696844811036276519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a2fdecb414d9d0800000000000000
+      internalID: -2750550670738022288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3da3ec02656c600800000000000000
+      internalID: 488172308515181508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c9c489611d8b10800000000000000
+      internalID: 1985262155637310598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56fa305592c99e0800000000000000
+      internalID: -1613369121394694694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b1e7e840dd186b0800000000000000
+      internalID: -5295708675170755835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cace99256eba10800000000000000
+      internalID: 1927088919993305119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b60af872013650800000000000000
+      internalID: 6210748079734699272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00e6046783ef340800000000000000
+      internalID: 4899415525163925730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2761f35c329af540800000000000000
+      internalID: 5042503520598714154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83852ff0b00a7c670800000000000000
+      internalID: 8558985586213541944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473eca3950ea12180800000000000000
+      internalID: -9141834429609745548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9dcdce956ebd20800000000000000
+      internalID: 3296183710013823694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af28d37078195c80800000000000000
+      internalID: -8333602764213440604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abd5ae93ad43b470800000000000000
+      internalID: 8409150294367525800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218be61f2c5a14910800000000000000
+      internalID: 1819917981127194642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3980281727abf0800000000000000
+      internalID: -313238664500397036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5cacc327468d1e0800000000000000
+      internalID: -2172876378397293122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a4211388191200800000000000000
+      internalID: 151179013701018772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa0641ac08346010800000000000000
+      internalID: 1181130629174397688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b9e3a2a4280660800000000000000
+      internalID: 7352166672635638715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e4299152577130800000000000000
+      internalID: 3564408140502198603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28c804a45674c70800000000000000
+      internalID: 8955237753634456282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5a0d1a10fb3b00800000000000000
+      internalID: 809504552990170283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f6cfde96953020800000000000000
+      internalID: 2320926792082714752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435cd90c3366c7490800000000000000
+      internalID: -7747204886523165388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f584797c4b90290800000000000000
+      internalID: -7923603300052082906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ab9227b9acdb10800000000000000
+      internalID: 2007666137925134268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f6a11326e889af0800000000000000
+      internalID: -389404815385792650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a47b5b17ae47e280800000000000000
+      internalID: -9014149649533274973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98846612738c2f900800000000000000
+      internalID: 716855429814438025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5c83bbdf9877c0800000000000000
+      internalID: -4073330096997639207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c9015f3dbd0cb0800000000000000
+      internalID: -4896049140241678132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee8910b630bda50800000000000000
+      internalID: 6546830241436331698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e178ee464729650800000000000000
+      internalID: 6238176410708942361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3300f13ececbac0800000000000000
+      internalID: -3837932322204666946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336840bc1fa92be00800000000000000
+      internalID: 1059079225669355059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57acb7315ef73310800000000000000
+      internalID: 1384855035220633435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f36138860583e0800000000000000
+      internalID: -2052226873183439236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fe348fcde0c770800000000000000
+      internalID: 8629158361574602938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795792815895ac60800000000000000
+      internalID: 7828831003104205171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cef4b5ba6986850800000000000000
+      internalID: 6370507335631105078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400057c7331e92ef0800000000000000
+      internalID: -132327102783094780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b222b836cc3b700800000000000000
+      internalID: 555011907004803847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3357f7cda14da300800000000000000
+      internalID: 264940167724749627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f11db737525f60800000000000000
+      internalID: 8021569783207164365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06f4e20d57c3690800000000000000
+      internalID: -7621086932427120467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeec04df08e27040800000000000000
+      internalID: 4644029320452173533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d5e99235b78140800000000000000
+      internalID: 4721941963256222081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb77fcd2800ddf60800000000000000
+      internalID: 8060599470116010931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00096481635002460800000000000000
+      internalID: 7214772332941185024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4167b12c1fbc4ce0800000000000000
+      internalID: -1419549654982893235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e36dfc2869c660800000000000000
+      internalID: 7406565604626522200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55ebbf34daf83d0800000000000000
+      internalID: -3202150302539164219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b0b9e0b9aa0d970800000000000000
+      internalID: 8777703256686791469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba518f009e3aae60800000000000000
+      internalID: 7974254878669232829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee97f9467de1bdc0800000000000000
+      internalID: -3624855132753649950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e115243b1a82150800000000000000
+      internalID: 5848101907424419422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93b42e4b57687470800000000000000
+      internalID: 8392571547455632284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae92872b1280150800000000000000
+      internalID: 5838953967289756300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cbeef38bcad35f0800000000000000
+      internalID: -775273653491287008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007833f58b7426930800000000000000
+      internalID: 4134946265076303616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b68192095045eb0800000000000000
+      internalID: -4732151191736653007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed8673c82283790800000000000000
+      internalID: -7550246789666251191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ba83a89dd23190800000000000000
+      internalID: -7984075541725924190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ffd35e6de907190800000000000000
+      internalID: -7966693095012172027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99b17ece2a90dc0800000000000000
+      internalID: -3672224882770601519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_205
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb63de4477680380800000000000000
+      internalID: -9004833705690960972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0988706b65403fe0800000000000000
+      internalID: -1211391972280334069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_207
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae76f2b2d34bdc90800000000000000
+      internalID: -7144041811668468049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_208
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896221dd9e8f4a1b0800000000000000
+      internalID: -5646114349495736680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_209
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6888dc0de05e610800000000000000
+      internalID: 1649741128465417924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae06be20b67d7e70800000000000000
+      internalID: 9114571719937756845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d837c514a85b20800000000000000
+      internalID: 3123426755025097261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02062b12e3a603360800000000000000
+      internalID: 7147329423722831904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64304931c5dfbf740800000000000000
+      internalID: 5187017967754543942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5cdc7639da783d0800000000000000
+      internalID: -3204401761237482033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ffeaf1ce7a5db0800000000000000
+      internalID: -4802386681033395299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c840a261dd710a50800000000000000
+      internalID: 6485603276646533313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393d67e276f452e0800000000000000
+      internalID: -2137812949724743363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac4e3509f86cef0800000000000000
+      internalID: -88225292641580300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386879a3735eb21a0800000000000000
+      internalID: -6833115984235624829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_220
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e185c49fa8cbf0800000000000000
+      internalID: -303799921343864614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92306b66f398450c0800000000000000
+      internalID: -4587891214984543447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48a017bcb482640800000000000000
+      internalID: 5055373918870340843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_223
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 149
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a04422259c01e0800000000000000
+      internalID: -2230243741585594029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c1cf791dec2610800000000000000
+      internalID: 1597912661583055354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ddcc1ef2a2ca090800000000000000
+      internalID: -8021990451113566867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7fcf0bc6e572d0800000000000000
+      internalID: -3281462993651532866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56c96fce995b6f0800000000000000
+      internalID: -669459726565874264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5ee89799089880800000000000000
+      internalID: -8604116541380861986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19443b3f3b78b9ba0800000000000000
+      internalID: -6081117664876215151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9409f5a17252bb0800000000000000
+      internalID: -4961516420252808784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6febc6c72a8c78650800000000000000
+      internalID: 6235172809315499766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e39d8e531d29d00800000000000000
+      internalID: 978074098562842125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9f65680e6c6c920800000000000000
+      internalID: 3010312068572576237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446d21f2caa2181b0800000000000000
+      internalID: -5656192737988127164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74a34e280f88400800000000000000
+      internalID: 326775417949800420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574efecc9ab8602b0800000000000000
+      internalID: -5618649923694107531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865235ec808fc340800000000000000
+      internalID: 4886265463349335693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033844533431b5dd0800000000000000
+      internalID: -2496380389069389008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_239
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366cf3ee665d8ad0800000000000000
+      internalID: -2698405567453698505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11baf2e20372ae870800000000000000
+      internalID: 8712819516988435217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49389dd7a466a76b0800000000000000
+      internalID: -5297809541522947180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216390a228a18bfb0800000000000000
+      internalID: -4631923070397237742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_243
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b201299509508ac60800000000000000
+      internalID: 7829514069719781419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2405876af996390800000000000000
+      internalID: -7824547340247612762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d84ac96691ba80800000000000000
+      internalID: -8452809644488206442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8befe7e6c26990800000000000000
+      internalID: -7394128938723996678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df69d799f7c1850800000000000000
+      internalID: 6349089871899327769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_248
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc14fe42fe5e170800000000000000
+      internalID: 8207228837864525800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_249
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f777633ed30db8d0800000000000000
+      internalID: -2829100738038761480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_250
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da799f75cd721f0800000000000000
+      internalID: -1069644116069470831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_251
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa382a74eb2027a50800000000000000
+      internalID: 6517274627027403695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f01a971032d20e0800000000000000
+      internalID: -2293138146019176681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_253
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073e30090df33d30800000000000000
+      internalID: 4410146675226457860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_254
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773818d5dc381dc00800000000000000
+      internalID: 923664316647965559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_255
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa955157b1b135ca0800000000000000
+      internalID: -6029445671376561745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_256
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cdf52d578ed95c0800000000000000
+      internalID: -4206950884155859928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_257
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63cb4cb42fae3d60800000000000000
+      internalID: 7871921771002970987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32fb5b8a8509a20800000000000000
+      internalID: 3067048827866260391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_259
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217756233c2a9f330800000000000000
+      internalID: 3745203524383110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_260
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b648065f0f47d20800000000000000
+      internalID: 3275507765682137968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_261
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0380c058e7b580800000000000000
+      internalID: -8811318712402244927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_262
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be1b56f256b0800800000000000000
+      internalID: 579668231291267862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_263
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f73aa2efed913a0800000000000000
+      internalID: -6694074187891114118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_264
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b7525700af70880800000000000000
+      internalID: -8644666079842042985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_265
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dfe41db6ab43400800000000000000
+      internalID: 303072047176547636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5c74a8b9b61b90800000000000000
+      internalID: -7271420345658351836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_267
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043f841595d6c9360800000000000000
+      internalID: 7177732136504980288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_268
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cf3282d001df00800000000000000
+      internalID: 1139693084829795251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_269
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba012455029d490800000000000000
+      internalID: -7721104535597307058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_270
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432ad1779c83c020800000000000000
+      internalID: 2360885211750343502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_271
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9eb17ec14b34e0800000000000000
+      internalID: -2000933254508668279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_272
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2acc61428659c660800000000000000
+      internalID: 7406546179630877228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_273
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7b4701ebfb8db0800000000000000
+      internalID: -4788456834869789833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312ddb7b693c8780800000000000000
+      internalID: -8679499248047414977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_275
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7d60276fc208a0800000000000000
+      internalID: -6340277283551609996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_276
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b221c338ac3520800000000000000
+      internalID: 2683204418243048267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_277
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41588f66b03b5b620800000000000000
+      internalID: 2789332405779465492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_278
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d647d52bbb9547c0800000000000000
+      internalID: -4087689858672802091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImprovedSandTilemap_279
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 21
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db21ffd64fc8460800000000000000
+      internalID: 7245434653800316233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
