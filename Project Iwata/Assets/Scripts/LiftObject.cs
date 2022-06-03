@@ -39,8 +39,7 @@ public class LiftObject : MonoBehaviour
                 //A raycast is created to check if an item is in range
                 //The raycast is starting at a point which is already inside an object (the player)
                 //This prevents the player being detected as a liftable object
-                // if (PlatformPlayerMovement.FacingLeft == false)    
-                // {//If the player is facing right...
+
                 if (Physics.Raycast(reachableray, out hit, 5.0f) && hit.collider.tag == ("Grabbable")) //&& PlatformPlayerMovement.FacingLeft == false)
                 {
                     FacingTowards = true;
@@ -52,29 +51,16 @@ public class LiftObject : MonoBehaviour
                     ObjectCollider.enabled = false;
                     //The object is picked up and placed above the player's head
                 }
-                //else if (Physics.Raycast(reachableray, out hit, -5.0f) && PlatformPlayerMovement.FacingLeft == true)
-                // //{
-                //    FacingTowards = true;
-                //    Debug.Log("left");
-                //  }  
+               
                 else
                 {
                     FacingTowards = false;
                 }
-                //The raycast is projected in the right direction of the playerif (hit.collider != null && hit.collider.tag == "Grabbable" && FacingTowards == true)
+                //The raycast is projected in the right direction of the player 
                 //if the raycast "hit" detects an object with a tag containing "Grabbable"
-                   
-                
+       
             }
-            //  else
-            //  {//else the raycast is projected in the left direction of the player
-            //      hit = Physics2D.Raycast(transform.position, Vector2.left * transform.localScale.x);
-            //  }
-            //raycast checks if object is in range
 
-                       
-            //}
-            
             else
             //else if we are holding something and b is pressed again
             {

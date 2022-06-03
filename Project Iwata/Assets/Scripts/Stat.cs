@@ -51,8 +51,6 @@ public class Stat : MonoBehaviour {
                 
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
-             //   PlayerObject.transform.position = gm.LastCheckPointPos; //THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
             }//WHEN HEALTH IS EQUAL TO 0 THEN IT WILL RESPAWN TO START OF MAP (resets the scene)
         }
 }

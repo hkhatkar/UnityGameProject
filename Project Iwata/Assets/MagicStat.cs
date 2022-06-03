@@ -30,7 +30,6 @@ public class MagicStat : MonoBehaviour
             {
                 currentValue = value;
             }
-            //Initialize(InitializedHealth, InitializedHealth);
             currentFill = currentValue / MyMaxMagicValue;
         }
     }
@@ -42,7 +41,6 @@ public class MagicStat : MonoBehaviour
     }
     void Update()
     {
-       
         content.fillAmount = currentFill;
         //The health bar will be constantly refilled as health changes
     }
@@ -50,13 +48,12 @@ public class MagicStat : MonoBehaviour
     {
         MyMaxMagicValue = maxValue;
         MyCurrentValue = currentValue;
-        
         //initializes the current value and max value to be displayed in UI
     }
 
     IEnumerator RegenerateMagic()
     {
-        while (true) //loops forever
+        while (true) //loops forever, magic always regenerates over time
         {
             if (!Input.GetMouseButton(0))
             {
@@ -66,11 +63,7 @@ public class MagicStat : MonoBehaviour
             else
             {
                 yield return null;
-            }
-            
-           
+            }         
         }
-       
-
     }
 }

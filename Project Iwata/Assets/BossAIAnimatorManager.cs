@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossAIAnimatorManager : StateMachineBehaviour
-{//This class manages only the basic enemy boss' animation between switching states.
+{//NON ACTIVE SCRIPT
+    //This class manages only the basic enemy boss' animation between switching states.
  //This class is only for the boss non-attacking states
  
     // OnStateUpdate is called on each Update

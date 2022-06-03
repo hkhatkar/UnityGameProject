@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ActivateSpeedPowerUp : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     
     public void ConsumeSpeedPowerUp()
     {//Procedure is activated by button click in inventory

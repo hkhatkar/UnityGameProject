@@ -23,14 +23,10 @@ public class EnemyHealth : MonoBehaviour
 
     [SerializeField]
     public EnemyHealthBar Enemyhealth;
-
     public GameObject CoinPrefabToDrop;
-
     public PLATSceneTrigger PLATSceneScript;
-
     public Bullet bulletScript;
-
-
+    
     void Start()
     {
         bulletScript = GetComponent<Bullet>();
@@ -56,7 +52,7 @@ public class EnemyHealth : MonoBehaviour
                     AnimateDeath.SetBool("Defeated", true);
                     if (DroppedItem != null)
                     {
-                        Instantiate(DroppedItem, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); //HERE
+                        Instantiate(DroppedItem, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity);
                     }
                     
                 }
@@ -64,62 +60,33 @@ public class EnemyHealth : MonoBehaviour
                 gameObject.tag = ("NPC");               
                 gameObject.GetComponent<InteractionObject>().enabled = true;
                 InteractionArea.enabled = true;
-               // Instantiate(BossDroppedItem, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); //HERE
-
-
+        
             }
             else if (gameObject.CompareTag("Enemy"))
             {
                 Destroy(EnemyObject);
                 if (DroppedItem != null)
                 {
-                    Instantiate(DroppedItem, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); //HERE
+                    Instantiate(DroppedItem, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); 
                 }
                 else
                 {
-                    for (int i = 0; i < Random.Range(0, 6); i++) //RANDOM LOOT DROP -> MAKE THIS TO VARY DEPENDING ON ENEMY TYPE LATER? // I N E F F I C I E N T -> CAUSES DELAY SOMETIMES
+                    for (int i = 0; i < Random.Range(0, 6); i++) 
                     {
-                        Instantiate(CoinPrefabToDrop, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); //HERE
+                        Instantiate(CoinPrefabToDrop, new Vector2(DroppedItemPos.transform.position.x, DroppedItemPos.transform.position.y), Quaternion.identity); 
                     }
-
                 }
-                
-                
             }
-            //Then enemy object is destroyed and therefore "dies"
-
         }
-
-
     }
 
     void OnTriggerEnter(Collider bulletcol)
     { 
         if (bulletcol.CompareTag("PlayerBullet"))
         {//when the player bullet collides with the enemy trigger...
-
             HitSuccessfulAudio.Play();
-            
-            //if the bullet hits the enemy with a weak shot (fast weapon)
-                //health -= 0.1f; 
-               //* EnemyBullet.BulletDamageMultiplierGlobal;
-                //0.1 health is deducted from enemy
-
-            
-            //else if the bullet that hits the enemy is a strong shot (heavy weapon)
-
-                // health -= 1;
-                //1 health is deducted from enemy
-                Enemyhealth.MyCurrentValue -= Bullet.DamageToDeal; //* EnemyBullet.BulletDamageMultiplierGlobal;
-
-            
-           // GameObject G = Instantiate(CurrentEnemyHealthDisplay);
-           
-
-            //CurrentEnemyHealthDisplay.transform.parent = gameObject.transform;
-          //  EnemyHealthBarScript.UpdateHealthBar(health, maxHealth);
+            Enemyhealth.MyCurrentValue -= Bullet.DamageToDeal; 
             Instantiate(blood, transform.position, Quaternion.identity);
-
             if (bulletcol.name.Contains("PLATBullet"))
             {
                 CameraShake.bulletDestroyed = true;

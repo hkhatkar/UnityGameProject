@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BreakOnHit : MonoBehaviour
-{//This class is used to destroy any breakable object that have collided with a player bullet
+{//NON ACTIVE SCRIPT
+//This class is used to destroy any breakable object that have collided with a player bullet
 
     public GameObject BreakableObject;
     public GameObject BlockParticles;

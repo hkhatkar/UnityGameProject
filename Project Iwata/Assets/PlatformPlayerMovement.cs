@@ -4,7 +4,8 @@ using UnityEngine;
 //imports Unity engine 
 
 public class PlatformPlayerMovement : MonoBehaviour {
-    //This class is reponsible for linking all the Player's attributes into one class where each one is implemented to the player
+//NON ACTIVE SCRIPT
+//This class is reponsible for linking all the Player's attributes into one class where each one is implemented to the player
 
 
     private AirShot AirShotScript;//AIR SHOT
@@ -45,8 +46,6 @@ public class PlatformPlayerMovement : MonoBehaviour {
     private bool jump = false;
     public bool crouch = false;
     public Dodge dodge;
-
-    //public bool grounded;//Not needed?----------------------_____---____-____--___--__---_
 
     [SerializeField]
     private Stat health;
@@ -158,19 +157,13 @@ public class PlatformPlayerMovement : MonoBehaviour {
 
         if (jump == false)
         {
-            if (Input.GetMouseButtonDown(0)) //"Crouch"
+            if (Input.GetKeyDown(KeyCode.E))//(Input.GetMouseButtonDown(0)) //"Crouch"
             {                
-               // if (crouch == false)
-              //  {
+
                     crouch = true;                  
-              //  }
-              //  else if (crouch == true)
-              //  {
-              //      crouch = false;                   
-              //  }
-              // health.MyCurrentValue += 0;//REMOVE THIS LATER THIS IS JUST FOR DEBUGGING TO SEE HOW HEAL WORKS
+
             }     
-            else if (Input.GetMouseButtonUp(0))
+            else if (Input.GetKeyUp(KeyCode.E))//(Input.GetMouseButtonUp(0))
             {
                 crouch = false;
             }

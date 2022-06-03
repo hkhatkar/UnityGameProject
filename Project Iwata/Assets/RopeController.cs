@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class RopeController : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     public GameObject ropeShooter;
     private SpringJoint2D rope;
     public int maxRopeFrameCount;

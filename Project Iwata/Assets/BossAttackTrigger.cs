@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossAttackTrigger : MonoBehaviour
-{//This class manages enemy boss' CLOSE ATTACK animation between switching states.
+{//NON ACTIVE SCRIPT
+ //This class manages enemy boss' CLOSE ATTACK animation between switching states.
 
     public Transform attackPoint;//used globally in BossChargeBehaviour also
     public float attackRange = 0.5f;
@@ -38,7 +39,7 @@ public class BossAttackTrigger : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collision)
     {//This procedure is triggered when a collision between 2 hitboxes occurs (Player/bullet with enemy)
 
-        if (collision.gameObject.CompareTag("Player") && PlayerGetsHit != true) //--------------------------------->>>
+        if (collision.gameObject.CompareTag("Player") && PlayerGetsHit != true) 
         {//If the collision with the boss' was a collision that was tagged "Player" ie the player...
             animator.SetBool("InMeleeAttackRange", true);
             PlayerGetsHit = true;

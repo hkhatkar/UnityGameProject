@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ParaTitan : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     public GameObject GroundProjectile;
     public Transform BashPoint;
     public float BashLifetime;

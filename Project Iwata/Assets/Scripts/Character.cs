@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public abstract class Character : MonoBehaviour
+//NON ACTIVE SCRIPT
 {//This class is responsible for applying the movement velocity from the player class and also top down animation
 
     
@@ -62,46 +63,12 @@ public abstract class Character : MonoBehaviour
     // Update is called once per frame
     protected virtual void Update()
     {
-
-        if (Physics.Raycast(rayPosition, Camera.main.transform.forward, out hit, 2f))
-        {
-            if (hit.transform.name == "DirNorth")
-            {
-              //  Debug.Log("North");
-            }
-            else if (hit.transform.name == "DirEast")
-            {
-               // Debug.Log("East");
-            }
-            else if (hit.transform.name == "DirWest")
-            {
-              //  Debug.Log("West");
-            }
-            else if (hit.transform.name == "DirSouth")
-            {
-             //   Debug.Log("South");
-            }
-            else { Debug.Log("error"); }
-            
-        }
+   
             HandleLayers();
 
         //Procedure HandleLayers will be responsible for controlling animations based on user inputs
     }
-    private void FixedUpdate()
-    //fixed update is frame rate independant compared to normal update
-    {
-        Move();
-
-        //The move procedure will be responsible for applying velocity at the speed selected to a player
-    }
-    public void Move()
-    {
-        // myRigidbody.velocity = movement.normalized * speed;
-
-        //.normalized on direction is there to prevent the player moving faster when travelling diagonally      
-        //This occurs when two buttons e.g. W and D are pressed at the same time to travel North East.
-    }
+   
 
     public void HandleLayers()
     {
@@ -110,10 +77,6 @@ public abstract class Character : MonoBehaviour
         if (IsMoving)
         {//If the player is moving then the walk layer animation is activated through calling a procedure
             ActivateLayer("WalkLayer");
-
-            // DirForFacingRotation = Camera.main.transform.forward;
-            
-           // DirectionsForFacing.transform.LookAt( mainCam.transform);
             
             //set walk animation to on
             if (Input.GetKey(KeyCode.W))
@@ -153,18 +116,8 @@ public abstract class Character : MonoBehaviour
         {//else the player is not moving and the idle animations are played
             if (walking == true)
             {
-                // if (directionFacing.Equals("Forward"))
-                // {
-                //     string currentForwardBox = hit.transform.name;
-                // }
-
-                DirForFacingRotation = DirectionsForFacing.transform.position;
-                //x = DirectionsForFacing.transform.eulerAngles.y;
-
-                
+                DirForFacingRotation = DirectionsForFacing.transform.position;         
                 walking = false;
-                
-
             }
             ActivateLayer("IdleLayer");
             if (Physics.Raycast(rayPosition, Camera.main.transform.forward, out hit, 2f))
@@ -201,74 +154,8 @@ public abstract class Character : MonoBehaviour
             }
 
 
-            /*      g = mainCam.transform.eulerAngles; 
-                  eg = g.y;
-
-                  ActivateLayer("IdleLayer");
-
-
-
-                   if (eg > 360)
-                  {
-                     eg = eg - 360;
-                   }
-                  if (eg < 0)
-                  {
-                      eg = eg + 360;
-                  }
-                  //Debug.Log(eg + " g " + g + " x " + x);
-
-
-                  float frontface;
-                  if (x >= 180)
-                  {
-                      frontface = x - 180;
-                  }
-                  else
-                  {
-                      frontface = x + 180;
-                  }
-
-
-                  if (eg > (frontface - 45 - directionShift) && eg < (frontface + 45 - directionShift) ||                              
-                         (((frontface - 45 - directionShift) < 0) && (eg > (360 + (frontface - 45 - directionShift))) && eg < 360) ||   //if facing right range  for frontface OR the end or max range for frontface go outside 360 and 0...
-                         (((frontface + 45 - directionShift) > 360) && (eg < (frontface + 45 - directionShift) - 360)) && eg > 0    )    //calculate new range by minusing 360 or adding 360 to max / min respectively and check between...
-                                                                                                                                          // 0 to max, and min to 360, if in that range then enter if !                                                                                                                      
-                  {               
-                      myAnimator.SetFloat("y", -1);
-                      myAnimator.SetFloat("x", 0);
-                  //facing camera     
-              }
-
-               else if (eg > (frontface - 135 - directionShift) && eg < (frontface - 45 - directionShift) ||                             
-                           (((frontface - 135 - directionShift) < 0) && (eg > (360 + (frontface - 135 - directionShift))) && eg < 360) ||   
-                           (((frontface -45 - directionShift) > 360) && (eg < (frontface -45 - directionShift) - 360)) && eg > 0)
-                  {
-                  myAnimator.SetFloat("x", -1);    
-                  myAnimator.SetFloat("y", 0);
-
-
-
-              }//facing left
-
-                  else if (eg > (frontface - 225 - directionShift) && eg < (frontface - 135 - directionShift) ||
-                             (((frontface - 225 - directionShift) < 0) && (eg > (360 + (frontface - 225 - directionShift))) && eg < 360) ||
-                             (((frontface - 135 - directionShift) > 360) && (eg < (frontface - 135 - directionShift) - 360)) && eg > 0)
-                  { 
-                      myAnimator.SetFloat("y", 1);                                
-                      myAnimator.SetFloat("x", 0);
-                  }//looking forward
-                  else
-                  {
-
-                      myAnimator.SetFloat("x", 1);
-                      myAnimator.SetFloat("y", 0);
-                  }//facing right
-                  */
-
-        }//else set the walk animation weight to 0 therefore it does not play walk animation  
-
-
+ 
+        }
     }//end procedure
 
 

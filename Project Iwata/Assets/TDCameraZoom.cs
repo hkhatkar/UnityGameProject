@@ -6,7 +6,7 @@ using UnityEngine;
 
 
 public class TDCameraZoom : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
 
     public Transform target;
 
@@ -14,15 +14,10 @@ public class TDCameraZoom : MonoBehaviour
     public float zoomSpeed = 4f;
     public float minZoom = 1f;
     public float maxZoom = 40f;
-
     public float pitch = 2f;
-
     public float yawSpeed = 300f;
-
     private float currentZoom = 10f;
     private float currentYaw = 0f;
-
-   
 
     private void Update()
     {

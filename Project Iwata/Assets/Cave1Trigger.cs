@@ -4,7 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Cave1Trigger : MonoBehaviour
-{//This class is responsible for switching scenes between top down 2D to the first 2D platform style cave/dungeon
+{//NON ACTIVE SCRIPT
+//This class is responsible for switching scenes between top down 2D to the first 2D platform style cave/dungeon
 
     public Vector2 SpotInNextRoom;
     GameObject persistancescene;

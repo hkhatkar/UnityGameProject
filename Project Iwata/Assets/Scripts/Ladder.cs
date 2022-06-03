@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Ladder : MonoBehaviour
-{//This class is responsible for preventing the player jumping and climbing a ladder at the same time
+{//NON ACTIVE SCRIPT
+    //This class is responsible for preventing the player jumping and climbing a ladder at the same time
  //It is also used to control whether the ladder could be climbed by the player
 
     public GameObject ladderBox;

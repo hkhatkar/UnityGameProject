@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AirShot : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
+
     public GameObject Player;//assigned in unity
     public PlatformPlayerMovement Climb;
     private bool globalgrounded ;
@@ -34,7 +35,7 @@ public class AirShot : MonoBehaviour
     }
     public void checkIfCrouching(bool crouch)//Checks by passing crouch from Platform Player Movement class
     {
-        //GET CROUCH FROM PLATFORM PLAYER MOVEMENT
+     
         globalcrouching = crouch;
 
     }
@@ -42,16 +43,10 @@ public class AirShot : MonoBehaviour
     {
         float TimeOfShotChanged;
         float SlowMoMultiplier = 1f;
-        //GET CROUCH FROM PLATFORM PLAYER MOVEMENT
-        globalTimeOfShots = TimeOfShots;                                //HERE!!
+    
+        globalTimeOfShots = TimeOfShots;                               
 
-      //  if (globalgrounded == false && SlowMoActivated == true)
-       // {
-       //     SlowMoMultiplier = 0.2f;
-
-       // }
-     //   else { SlowMoMultiplier = 1f; }
-        
+ 
         
             if (BulletScrollBar.selectedbulletNumber == 0) //SWITCHES THE BULLETS BACK TO ORIGINAL SHOOT SPEED, WHEN MAKING NEW BULLETS CHANGE THESE VALUES TOO !!!!
             {
@@ -61,7 +56,7 @@ public class AirShot : MonoBehaviour
             {
                 TimeOfShotChanged = 0.1f * SlowMoMultiplier;
             }
-            else if (BulletScrollBar.selectedbulletNumber == 2) //bullet 2
+            else if (BulletScrollBar.selectedbulletNumber == 2) 
             {
                 TimeOfShotChanged = 0.5f * SlowMoMultiplier;
             }
@@ -70,10 +65,6 @@ public class AirShot : MonoBehaviour
                 TimeOfShotChanged = 5f * SlowMoMultiplier;
             }
         
-       // else
-        //{
-        //    TimeOfShotChanged = 0;
-       // }
 
         Debug.Log(TimeOfShotChanged);
         return TimeOfShotChanged;
@@ -87,7 +78,7 @@ public class AirShot : MonoBehaviour
         SlowMotionEffect2.transform.Rotate(-2, -2, -2);
 
 
-        if (globalgrounded == false && Input.GetMouseButton(0)) //&& Climb.isClimbing == false) //&& globalcrouching == true)//Climb is used to make sure slow mo doesnt happen whilst climbing
+        if (globalgrounded == false && Input.GetMouseButton(0)) 
         {
             
             Time.timeScale = 0.1f;
@@ -97,38 +88,18 @@ public class AirShot : MonoBehaviour
             SlowMotionController.SetActive(true);
             if (SlowMoActivated == false)
             {
-              //  if (BackgroundMusic.pitch < 0)
-             //   {
-
-                  //  BackgroundMusic.pitch = BackgroundMusic.pitch * 0.5f;
-               // }
-              //  else
-              //  {
-              //      BackgroundMusic.pitch = BackgroundMusic.pitch / 0.5f;
-              //  }
                 SlowMoActivated = true;
             }
 
         }
-        else if (globalgrounded == true) //|| globalcrouching == false)
+        else if (globalgrounded == true) 
         {
          
            Time.timeScale = 1f;
            Time.fixedDeltaTime =  Time.timeScale * 0.02f;
            SlowMotionController.SetActive(false);
-            //BackgroundMusic.pitch = InitialPitch;/// 0.5f; //was initila pitch
             SlowMoActivated = false;
         }
-       // else
-      //  {
-       //     BackgroundMusic.pitch = InitialPitch;
-        //}
-
-        //if (SlowMoActivated == false)
-       // {
-        //    Time.timeScale = 1f;
-        //    Time.fixedDeltaTime = Time.timeScale * 0.02f;
-       // }
     
     }
 }

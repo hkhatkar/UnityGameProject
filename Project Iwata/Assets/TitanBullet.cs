@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TitanBullet : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     public float speed;
 
     public Rigidbody2D rbGroundBullet;

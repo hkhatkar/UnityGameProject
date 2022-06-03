@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossChargeBehaviour : StateMachineBehaviour
-{//This class manages enemy bosses CHARGE animation between switching states (when player attempts to attack enemy for too long).
+{//NON ACTIVE SCRIPT
+//This class manages enemy bosses CHARGE animation between switching states (when player attempts to attack enemy for too long).
     
     PlatformPlayerMovement PlayerTakeDamage;
     public float speed;

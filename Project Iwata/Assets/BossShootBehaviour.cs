@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossShootBehaviour : StateMachineBehaviour
-{//This class manages enemy bosses LONG RANGE ATTACK animation between switching states. (Start of boss battle)
+{//NON ACTIVE SCRIPT
+//This class manages enemy bosses LONG RANGE ATTACK animation between switching states. (Start of boss battle)
 
     public GameObject FireBall;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state

@@ -6,9 +6,9 @@ public class WallJump : MonoBehaviour
 {//This class is responsible for controlling the wall jump feature for the player's movement
  //THIS IS DEPENDANT ON LADDER RAYCAST = change speed here = change speed up ladder
 
-    Vector3 currentWallMovement;//////////////////////////////////////////////////////////
-    public static float wallJumpPower = 17f;//   HERE
-    public float currentWallJumpPower;//////////////////////////////////////////////////////////
+    Vector3 currentWallMovement;
+    public static float wallJumpPower = 17f;
+    public float currentWallJumpPower;
 
     public CharacterController chara;
     CharacterController2D movement;
@@ -28,19 +28,11 @@ public class WallJump : MonoBehaviour
     {
         changeDirectionFacing = false;
         PlayerMoveScript = gameObject.GetComponent<NewPLATPlayerMovement>();
-       // movement = GetComponent<CharacterController2D>();
-      //  PlayerSpeed = GetComponent<PlatformPlayerMovement>();
-
-        //assigns movement to the component attached to CharacterController2D script
-        //PlayerSpeed is assigned to the speed component in PlatformPlayerMovement
     }
 
     // Update is called once per frame
     void Update()
     {
-
-       // currentWallMovement = new Vector3(currentWallJumpPower, 0, 0);
-       // chara.Move(currentWallMovement * Time.deltaTime);
 
         if (PlayerMoveScript.anim.GetBool("PLATx") == true &&  Input.GetKey(KeyCode.A))
         {
@@ -49,7 +41,6 @@ public class WallJump : MonoBehaviour
             changeDirectionFacing = false;
         }
         else if (PlayerMoveScript.anim.GetBool("PLATx") == false && Input.GetKey(KeyCode.D))
-         //   (Input.GetKeyDown(KeyCode.D) || (changeDirectionFacing == true && dirFace == -1))
         {
             directionOfRay = Vector3.right;
             dirFace = 1;
@@ -63,31 +54,16 @@ public class WallJump : MonoBehaviour
         if (Physics.Raycast(new Vector3(0f, 1f, 0f)  + transform.position, directionOfRay , out hit,distance*2))
         {
             Debug.Log("waw:" + hit.collider.name);
-            if (Input.GetKey(KeyCode.Space) && hit.collider.tag == "Wall") // !movmenent.Grounded !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            if (Input.GetKey(KeyCode.Space) && hit.collider.tag == "Wall")
             {
-                // currentWallJumpPower = wallJumpPower;
                 if (dirFace == -1)
                 {
-                    
                     PlayerMoveScript.HandleWallJump( wallJumpPower);
-                   
                 }
                 else
-                {
-                   
+                { 
                     PlayerMoveScript.HandleWallJump(-1*  wallJumpPower);
-                   
-                }
-              //  Debug.Log("Indoe");
-               // chara.enabled = false;
-               // GetComponent<CapsuleCollider>().enabled = true;
-              //  GetComponent<Rigidbody>().velocity = new Vector3(Wallspeed * (hit.normal.x * 2), Wallspeed); //CHANGE TO AFFECT CHAR CONTROLLER NOT RIGID BODY
-             //   //hit.normal.x is multiplied to give a horizontal thrust
-              //  Debug.Log("RigidVel =" + GetComponent<Rigidbody2D>().velocity);
-              //  Instantiate(WallParticles, transform.position, Quaternion.identity);
-                
-                
-                //Velocity is appled to the opposite direction when the player presses space next to wall and wall particles are displayed          
+                }          
             }
         }
         

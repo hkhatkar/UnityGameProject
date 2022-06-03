@@ -17,6 +17,11 @@ scopes = {
 	"m_SideBarSplitter.785D90A9" = "288"
 	"m_DetailsPanelSplitter.785D90A9" = "1536"
 	"currentGroup.785D90A9" = "all"
+	"last_search.7F95D817" = "`"
+	"m_ShownPanels.7F95D817" = "3"
+	"m_SideBarSplitter.7F95D817" = "288"
+	"m_DetailsPanelSplitter.7F95D817" = "1536"
+	"currentGroup.7F95D817" = "scene"
 }
 providers = {
 	asset = {

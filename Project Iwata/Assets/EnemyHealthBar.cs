@@ -4,13 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class EnemyHealthBar : MonoBehaviour
-{
+{//This script is responsible for displaying the enemies health in UI form, representing this in a ratio bar
 
     private GameMaster gm;
     public Image content;
-    
-   // [SerializeField]
-  //  private Text statValue;
     private float currentFill = 1;
     public  float MyMaxValue { get; set; }
     public  float currentValue;
@@ -41,32 +38,9 @@ public class EnemyHealthBar : MonoBehaviour
             }//otherwise the current value will be equal to the new value when health is deducted          
             currentFill = currentValue / MyMaxValue;
             //current fill is the ration of health compared to the maximum
-
-           // statValue.text = currentValue + " / " + MyMaxValue;
-            //Displays this value as text
-            //if (currentValue == 0)
-          //  {
-
-             //   SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            //    PlayerObject.transform.position = gm.LastCheckPointPos;
-           // }//WHEN HEALTH IS EQUAL TO 0 THEN IT WILL RESPAWN TO START OF MAP (resets the scene)
         }
     }
-    // Use this for initialization
-    void Start()
-    {
-        //content = GetComponent<Image>();
-     //   gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
-        //This is used to represent an UI image of the health bar
-        //When the player dies the player will respawn at its last location saved in game master
-       // if (Died == true)
-       // {
-       //     PlayerObject.transform.position = gm.LastCheckPointPos;
-       //     Died = false;
-            //Player respawns to last location
-      //  }
-    }
-    // Update is called once per frame
+
     void Update()
     {
         content.fillAmount = currentFill;

@@ -142,8 +142,8 @@ GameObject:
   - component: {fileID: 3681052605551480338}
   - component: {fileID: 1793730083432915200}
   - component: {fileID: 4927509814419809631}
-  - component: {fileID: 1702400045116651529}
   - component: {fileID: 3495189200433228507}
+  - component: {fileID: 7776279677010841860}
   m_Layer: 11
   m_Name: UpdatedEvilBug
   m_TagString: Enemy
@@ -254,19 +254,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 2
---- !u!135 &1702400045116651529
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1793730083432915324}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &3495189200433228507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -285,6 +272,19 @@ MonoBehaviour:
   Enemy_animator: {fileID: 1793730083432915200}
   PlatBullet: {fileID: 0}
   StunEnemy: 0
+--- !u!65 &7776279677010841860
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793730083432915324}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 2.6500452}
+  m_Center: {x: 0, y: 0, z: -0.019978166}
 --- !u!1 &1793730083442061602
 GameObject:
   m_ObjectHideFlags: 0

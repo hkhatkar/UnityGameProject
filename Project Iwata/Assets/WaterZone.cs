@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WaterZone : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     PlatformPlayerMovement PlayerRunSpeed;
     float OriginalSpeed;
 
@@ -20,8 +20,5 @@ public class WaterZone : MonoBehaviour
     {
         PlatformPlayerMovement.runSpeed = PlatformPlayerMovement.runSpeed -10;
     }
-  //  void OnTriggerExit2D(Collider2D collision)
-   // {
-  //      PlatformPlayerMovement.runSpeed = PlatformPlayerMovement.runSpeed +10;
-  //  }
+
 }

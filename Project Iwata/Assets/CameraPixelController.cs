@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CameraPixelController : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     // Start is called before the first frame update
     public PerfectPixel2D cameraHelper;
     public float moveSpeed = 0.1f;

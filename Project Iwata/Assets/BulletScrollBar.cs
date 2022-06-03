@@ -4,33 +4,30 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class BulletScrollBar : MonoBehaviour
-{
+{//script responsiblle for the UI scroll bar for the weapon wheel
     public GameObject[] BulletSlots;
     int bulletSlotPosition = 0;
     Image currentSlotImage;
     public Sprite selectedSlotImage;
     public Sprite normalSlotImage;
-    // Start is called before the first frame update
     float delayTime = 0f;
-
     public static int selectedbulletNumber;
 
     void Start()
     {
         currentSlotImage = BulletSlots[0].GetComponentInChildren<Image>();
         currentSlotImage.sprite = selectedSlotImage;
+        //sets the initial bullet slot to be the first slot
     }
 
-    // Update is called once per frame
     void Update()
     {
         var scrollposition = Input.GetAxis("Mouse ScrollWheel");
         delayTime += 1* Time.deltaTime;
+        //Allows for scroll wheel input to select a weapon
 
         if (scrollposition == 0 && delayTime > 1f)
-        {
-
-
+        {//if the player stops with the scroll wheel input after 1 second, that weapon/bullet type will be selected
             for (int i = 0; i < BulletSlots.Length; i++)
             {
                 Image im = BulletSlots[i].GetComponent<Image>();
@@ -42,7 +39,7 @@ public class BulletScrollBar : MonoBehaviour
                 c2.a = 0;
                 im.color = c;
                 im2.color = c2;
-                
+                //UI is updated as accordingly to select item
             }
         }
         else
@@ -58,10 +55,11 @@ public class BulletScrollBar : MonoBehaviour
                 im2.color = c;
             }
         }
+
         if (scrollposition > 0.05f)
-        {
+        {//for when the player is using the scroll wheel, for moving clockwise around the UI (forward wheel)
             delayTime = 0;
-            Debug.Log("SHOULD MOVE NOW !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+            Debug.Log("SHOULD MOVE NOW");
             bulletSlotPosition++;
             if (bulletSlotPosition > 7)
             {
@@ -69,6 +67,7 @@ public class BulletScrollBar : MonoBehaviour
             }
             currentSlotImage = BulletSlots[bulletSlotPosition].GetComponentInChildren<Image>();
             currentSlotImage.sprite = selectedSlotImage;
+            //Updates selected UI to visualise which has been selected
 
             selectedbulletNumber = bulletSlotPosition;
 
@@ -80,10 +79,11 @@ public class BulletScrollBar : MonoBehaviour
                 }
             }
         }
+
         else if (scrollposition < -0.05f)
-        {
+        {//for when the player is using the scroll wheel, for moving anticlockwise around the UI (back wheel)
             delayTime = 0;
-            Debug.Log("SHOULD MOVE NOW !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+            Debug.Log("SHOULD MOVE NOW");
             bulletSlotPosition--;
             if (bulletSlotPosition < 0)
             {
@@ -91,7 +91,7 @@ public class BulletScrollBar : MonoBehaviour
             }
             currentSlotImage = BulletSlots[bulletSlotPosition].GetComponentInChildren<Image>();
             currentSlotImage.sprite = selectedSlotImage;
-
+            //Updates selected UI to visualise which has been selected
             selectedbulletNumber = bulletSlotPosition;
 
             for (int i = 0; i < BulletSlots.Length; i++)

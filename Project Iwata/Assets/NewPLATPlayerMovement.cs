@@ -3,7 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NewPLATPlayerMovement : MonoBehaviour
-{
+{//This script is the Main player movement script for the side scrolling elements of the game.
+//This links all animations to different player movement abilities and any other abilities that effect movement
+//and also connects all movement abilities to this script
+
+    public float conWalkSpeed;
+    public float conRunSpeed;
+
     float passedwallJumpVal;
     WallJump WJScript;
 
@@ -27,14 +33,13 @@ public class NewPLATPlayerMovement : MonoBehaviour
     Vector3 ledgeCornerPoint = Vector3.zero;
     public bool crouch = false;
 
-    int wallJumpImpact = 0; //hererererererere
+    int wallJumpImpact = 0;
     int dirOfWallKnockback = 0;
-
-
     int dirOfDodge;
     float passedDodgeSpeed;
 
     public bool SprintCoolDown = false;
+    bool HookIsActive;
   
 
     // Start is called before the first frame update
@@ -48,8 +53,6 @@ public class NewPLATPlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //passedwallJumpVal = WJScript.currentWallJumpPower;
-
         if (controller)
         {
             handleMovement();
@@ -58,70 +61,70 @@ public class NewPLATPlayerMovement : MonoBehaviour
             handleLedgeGrab();
             handleShooting();
         }
-
     }
-    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    //Basic movement method -----------------------------------------------------------------------------------------------------------------------------------------------------------
     void handleMovement()
     {
-        //  float v = Input.GetAxis("Vertical");
-        
+        if (HookIsActive)
+        {
+            currentJumpPower = 0f;
+        }
 
         h = Input.GetAxis("Horizontal"); // walking
-            if (holdingLedge)
+        if (holdingLedge)
         {
-            jumpsPerformed = 1; //fixes holding ledge jump, when jumped 2 times already, the jump off ledge doesnt work
+            jumpsPerformed = 1; 
+            //fixes holding ledge jump, when jumped 2 times already
         }
-            if (controller.isGrounded)
-            {
-          
+        if (controller.isGrounded)
+        { 
             currentMovement.y = 0;
             jumpsPerformed = 0;
-                currentMovement = new Vector3(h, 0, 0);
+            currentMovement = new Vector3(h, 0, 0); 
+             if (running == false && jumpsPerformed != 2) { MoveSpeed = conWalkSpeed; }
+        }
 
-            
-             if (running == false && jumpsPerformed != 2) { MoveSpeed = 4f; }
-            }
-            currentMovement = new Vector3(h, 0, 0);
-            currentMovement *= MoveSpeed;
-            currentMovement.y -= gravity;
-            controller.Move(currentMovement * Time.deltaTime);
+        currentMovement = new Vector3(h, 0, 0);
+        currentMovement *= MoveSpeed;
+        currentMovement.y -= gravity;
+        controller.Move(currentMovement * Time.deltaTime);
 
-            if (Input.GetKeyDown(KeyCode.Space) && jumpsPerformed<2)
+        if (Input.GetKeyDown(KeyCode.Space) && jumpsPerformed<2)
+        {
+            if (jumpsPerformed == 1)
             {
-                if (jumpsPerformed == 1)
-                {
                 passedwallJumpVal = 0;
-                    MoveSpeed = 7f;
-                    currentJumpPower = 28f;
-                }
-             
-                else { currentJumpPower = jumpPower; }
-                jumpsPerformed++;
-            }
-            if (Input.GetKey(KeyCode.LeftControl) && !SprintCoolDown && controller.isGrounded)
+                MoveSpeed = conRunSpeed;
+                currentJumpPower = 28f;
+            }            
+            else { currentJumpPower = jumpPower; }
+            jumpsPerformed++;
+        
+        }
+
+        if (Input.GetKey(KeyCode.LeftControl) && !SprintCoolDown && controller.isGrounded)
+        {
+
+            if (anim.GetBool("PLATSprinting") == false)
             {
-           
-
-                if (anim.GetBool("PLATSprinting") == false)
-                {
-                  if (anim.GetBool("PLATx") == true) { anim.Play("PLATSprintLeftStart"); }
-                    else { anim.Play("PLATSprintRightStart"); }
-                }
-                    anim.SetBool("PLATSprinting", true);
-
-                     MoveSpeed = 7f;
-                     running = true;
-             }
-            else if (SprintCoolDown == true)
-            {
-            MoveSpeed = 4f;
-             }   
-            if (Input.GetKeyUp(KeyCode.LeftControl) || !controller.isGrounded)
-             {
-                anim.SetBool("PLATSprinting", false);
-                 running = false;
-
+                if (anim.GetBool("PLATx") == true) { anim.Play("PLATSprintLeftStart"); }
+                else { anim.Play("PLATSprintRightStart"); }
             }
+            anim.SetBool("PLATSprinting", true);
+
+            MoveSpeed = conRunSpeed;
+            running = true;
+        }
+        else if (SprintCoolDown == true)
+        {
+            MoveSpeed = conWalkSpeed;
+        }   
+        if (Input.GetKeyUp(KeyCode.LeftControl) || !controller.isGrounded)
+        {
+            anim.SetBool("PLATSprinting", false);
+            running = false;
+
+        }
 
 //---------------------------------------------------------------------WallJump
         if (passedwallJumpVal > 0 && dirOfWallKnockback > 0)
@@ -145,43 +148,20 @@ public class NewPLATPlayerMovement : MonoBehaviour
             passedDodgeSpeed += 40 * Time.deltaTime;
             currentMovement.x = passedDodgeSpeed;
         }
-//---------------------------------------------------------------------
+//---------------------------------------------------------------------Jump
 
-        //else if (passedwallJumpVal > 0 && anim.GetBool("PLATx") == true)
-        // {
-        //     passedwallJumpVal += 23 * Time.deltaTime;
-        //      currentMovement.x = passedwallJumpVal;
-        // }
-        // if (!controller.isGrounded)
-        // {
         currentJumpPower -= gravity * 3 * Time.deltaTime;
-
-           
-         //   currentDodgePower -= 3 * Time.deltaTime;
-        //}
-           
-        //if (currentJumpPower > 0)
-      //  {
-            currentMovement.y = currentJumpPower;
-       // currentMovement.x = (currentDodgePower + passedwallJumpVal) * MoveSpeed;
-           // currentMovement.x = currentDodgePower;
-       // }
-      //  else
-       // {
-        //    currentMovement.y = 0;
-       // }
-          controller.Move(currentMovement * Time.deltaTime);
+        currentMovement.y = currentJumpPower;
+        controller.Move(currentMovement * Time.deltaTime);
         
     }
-   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   //these methods are for handling all animations---------------------------------------------------------------------------------------------------------------------------------------------
     void handleAnimation()
     {
-            anim.SetFloat("PLATSpeed", Mathf.Abs(h));
-            if (Input.GetButton("Jump") && jumpsPerformed > 1) { anim.SetBool("PLATDoubleJump", true); anim.SetBool("PLATJump", false); }
+        anim.SetFloat("PLATSpeed", Mathf.Abs(h));
+        if (Input.GetButton("Jump") && jumpsPerformed > 1) { anim.SetBool("PLATDoubleJump", true); anim.SetBool("PLATJump", false); }
+        else if (Input.GetButton("Jump")) { anim.SetBool("PLATJump", true); }
 
-            else if (Input.GetButton("Jump")) { anim.SetBool("PLATJump", true); }
-
-        // if (crouch){ActivatePLATLayer("PLATCrouchLayer"); }
         if (crouch) { ActivatePLATLayer("PLATCrouchLayer"); }
         else
         {
@@ -190,22 +170,9 @@ public class NewPLATPlayerMovement : MonoBehaviour
 
         if (controllerGrounded == true) {
             anim.SetBool("PLATJump", false); anim.SetBool("PLATDoubleJump", false);
-
         }
-            if (Input.GetKeyDown(KeyCode.A)) { anim.SetBool("PLATx", true); }
-            if (Input.GetKeyDown(KeyCode.D)) { anim.SetBool("PLATx", false); }
-
-            if (Dodge.playDodgeAnim == true)
-            {//dodge animation played when dodging
-
-                //   ActivatePLATLayer("PLATDodgeLayer");
-            }
-            else
-            {//idle animation played on default
-             // ActivatePLATLayer("PLATIdleLayer");
-            }
-
-            //ActivatePLATLayer("PLATIdleLayer");
+        if (Input.GetKeyDown(KeyCode.A)) { anim.SetBool("PLATx", true); }
+        if (Input.GetKeyDown(KeyCode.D)) { anim.SetBool("PLATx", false); }
         
     }
     void ActivatePLATLayer(string layerName)
@@ -217,21 +184,15 @@ public class NewPLATPlayerMovement : MonoBehaviour
         anim.SetLayerWeight(anim.GetLayerIndex(layerName), 1);
 
     }//end procedure
+
     void switchBackToJumpAnim()//from double jump to normal jump anim (EVENT)
     {
         anim.SetBool("PLATDodge", false);
         anim.SetBool("PLATDoubleJump", false);
-       // if (anim.GetBool("PLATDodge") == true)
-     //   {
-            anim.SetBool("PLATJump", true);
-       // }
-      //  else
-     //   {
-     //       anim.SetBool("PLATJump", false);
-     //   }
+        anim.SetBool("PLATJump", true);
     }
-    //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+    //method for handling edge grabbing------------------------------------------------------------------------------------------------------------------------------------------------
     void handleLedgeGrab()
     {
         RaycastHit DownEdgeRange, LowerEdgeRange, UpperEdgeRange;
@@ -242,67 +203,53 @@ public class NewPLATPlayerMovement : MonoBehaviour
             facingRightMultiplier = 1;
         }
 
-        if (//Physics.Raycast(midEdgePosition.position+ new Vector3(0,0.6f,0), Vector3.left, out UpperEdgeRange) ==false &&
+        if (
             Physics.Raycast(midEdgePosition.position + new Vector3(0, 0.2f, 0), Vector3.left * 2 * facingRightMultiplier, out LowerEdgeRange, 10) &&
             Physics.Raycast(midEdgePosition.position + new Vector3(-1f * facingRightMultiplier, 1f, 0), Vector3.down, out DownEdgeRange, 10) &&
-                Physics.Raycast(midEdgePosition.position + new Vector3(0f, 0.7f, 0), Vector3.left * 2 * facingRightMultiplier, out UpperEdgeRange, 10))
-        {
-            Debug.Log("ooo");
+            Physics.Raycast(midEdgePosition.position + new Vector3(0f, 0.7f, 0), Vector3.left * 2 * facingRightMultiplier, out UpperEdgeRange, 10))
+        {//3 raycasts are used here.
+        //LowerEdgeRange must detect an object of tag "Finish" for the edge grab to happen
+        //UpperEdgeRange must be empty, therefore between this lower and upper range, there should be a ledge in between
+        //DownEdgeRange is finally used to make sure that we grab the ledge at the right height, when this touches an object of type ledge it will keep the player at this position
+
             if (DownEdgeRange.collider.tag == "Finish" && LowerEdgeRange.collider.tag == "Finish" && UpperEdgeRange.collider.tag == "Finish")
             {
                 //mid
                 holdingLedge = true;
                 controller.enabled = false;
                 rb.isKinematic = true;
-                //  currentJumpPower = 0;
-                //  holdingLedge = true;
-                //  gravity = 0f;
+               
                 ledgeCornerPoint = new Vector3(LowerEdgeRange.point.x, DownEdgeRange.point.y, transform.position.z);
-                //vvvvv THESE ARE ONLY FOR RIGHT HANG, LEFT HANG WOULD BE -0.43 I THINK)
+
+                //This is ONLY FOR RIGHT HANG
                 transform.position = ledgeCornerPoint + new Vector3(0.43f * facingRightMultiplier, -0.37f, 0);
-
                 Debug.Log("LCP: " + ledgeCornerPoint);
-                //   holdingLedge = true;
-                // currentMovement = Vector3.zero;
-                // controller.Move(currentMovement* Time.deltaTime);
-
-            }
-            else
-            {
-                //   holdingLedge = false;
-                //currentJumpPower = 0;
-                //  gravity = 14f;
             }
 
         }
-        else
-        {
-            // holdingLedge = false;
-            //currentJumpPower = 0;
-            //  gravity = 14f;
-        }
 
-        if (holdingLedge == true && (
-             Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space)))//left only
+        if (holdingLedge == true && (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space)))
+        //jumps in the direction of the way you face whilst holding onto the ledge
         {
             if (facingRightMultiplier == 1)
             {
                 anim.Play("DodgeBack");
-            }
+            }//uses dodge animations to get up the ledge
             else
             {
                 anim.Play("Dodge");
             }
+
             rb.isKinematic = false;
             controller.enabled = true;
             holdingLedge = false;
             transform.position = ledgeCornerPoint + new Vector3(-0.1f * facingRightMultiplier, 1f, 0);
+            //Enables movement again once the ledge has been jumped off from
 
         }
         else if (holdingLedge == true && (Input.GetKeyDown(KeyCode.S)))
-
+        //S is used if you want to drop off the ledge instead
         {
-
             if (facingRightMultiplier == 1)
             {
                 anim.Play("PLATJumpBack");
@@ -319,21 +266,17 @@ public class NewPLATPlayerMovement : MonoBehaviour
 
 
     }
-    //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    //handles shooting-------------------------------------------------------------------------------------------------------------------------------------------------------------
     void handleShooting()
     {
-        //if (jump == false)
-        // {
-        if (Input.GetMouseButtonDown(0)) //"Crouch"
-        {
+        if (Input.GetMouseButtonDown(0)) 
+        {//when this is held down, bullets will automatically be fired in set time intervals
             crouch = true;
         }
         else if (Input.GetMouseButtonUp(0))
         {
             crouch = false;
         }
-        // }
-
     }
 
     private void OnDrawGizmos()
@@ -345,12 +288,10 @@ public class NewPLATPlayerMovement : MonoBehaviour
         Gizmos.DrawRay(midEdgePosition.position + new Vector3(0, 0.7f, 0), Vector3.left);
     }
 
-   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   //method for handling wall jump-----------------------------------------------------------------------------------------------------------------------------------------------------------------
    public void HandleWallJump(float maxPassedWJPower)
     {
         Debug.Log("WallJumpHandled " + maxPassedWJPower);
-        //if (anim.GetBool("PLATx") == true)
-        // {
         if (anim.GetBool("PLATx") == true)
         {
             anim.SetBool("PLATx", false);
@@ -360,25 +301,26 @@ public class NewPLATPlayerMovement : MonoBehaviour
             anim.SetBool("PLATx", true);
         }
         dirOfWallKnockback = (int) maxPassedWJPower; //this doesnt change unless another wall jump is executed
-            passedwallJumpVal = maxPassedWJPower;
-      //  }
-      //  else
-     //   {
-    //        passedwallJumpVal = -maxPassedWJPower;
-     //   }
-       jumpsPerformed = 2;
+        passedwallJumpVal = maxPassedWJPower;
+        jumpsPerformed = 2;
         currentJumpPower = 30;
     }
-    //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    //methos for determining direction of dodge and controlling its velocity---------------------------------------------------------------------------------------------------------------------
     public void HandleDodge(float DodgeSpeed)
     {
-
         dirOfDodge = (int)DodgeSpeed;
         passedDodgeSpeed = DodgeSpeed;
     }
 
     public void KnockbackManager()
     {
+        //to be implemented when needed
+    }
+    //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+    public void HookManager(bool HookActive)
+    {
+        //theres a bug where gravity gets very strong whilst held up in the air, we need to make it 0
+        HookIsActive = HookActive;  
     }
 }

@@ -5,37 +5,37 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: ca18f588d0532994aae62b2a42c82885
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cellroom/CellRoomEnter.unity
     guid: 8a6fb5d5c97fb92458654d86cde4580f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PIV2.unity
     guid: 831e87baa14e13c4cb59011753013711
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2DCave1.unity
     guid: b289553fe2b56c3479e93154c571edee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MiniBoss1.unity
     guid: 6689073c29a8a614b9f6947d172b724d
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SurvivalMenu.unity
     guid: 6cab50e6b197bbe4e9269cab1de43700
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SURVIVAL STAGES/GEO.unity
     guid: 16988323664852140b55f5b5b1ed20b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2DCave2.unity
     guid: 2a926be8c0fd5c14987ca52bca394a3f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HunterCamp.unity
     guid: 6c91389028910554bbaddba4acb0dfc2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PLATScenes/DeepForest.unity
     guid: 2bd8c104e1a6e6c4c8811b6fa5a5fcc4
   - enabled: 1
@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PLATScenes/Battleground1.unity
     guid: bb738fe3fc0ea74459b5cf1e5a8bd1e1
+  - enabled: 1
+    path: Assets/Scenes/PLATScenes/PrisonDepths.unity
+    guid: ab0aa381525d5414ba6ddc2755f7d81c
   m_configObjects: {}

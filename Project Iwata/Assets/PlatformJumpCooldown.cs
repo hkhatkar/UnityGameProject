@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlatformJumpCooldown : MonoBehaviour {
-
+//NON ACTIVE SCRIPT
     public float cooldownTime = 2;
     private float nextFireTime = 0;
     private void Update()

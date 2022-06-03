@@ -4,7 +4,8 @@ using UnityEngine.Events;
 
 
 public class CharacterController2D : MonoBehaviour
-{//This class is responsible for the character's movement functions such as jumping, moving and crouching/Aim mode
+{//NON ACTIVE SCRIPT
+//This class is responsible for the character's movement functions such as jumping, moving and crouching/Aim mode
 
     private AirShot AirShotScript;//AIR SHOT
     [SerializeField] private Transform CeilingCheck;                          // This is the position of the ceiling detector
@@ -61,16 +62,9 @@ public class CharacterController2D : MonoBehaviour
 
         if (Grounded && Input.GetKey(KeyCode.Space)) //&& JumpCount < 2)
         {
-            // Add a vertical force to the player.
-            // Grounded = false;
-            //   AirControl = true;
-            //playerRigidbody2D.AddForce(new Vector2(0f, JumpForce));//* Time.fixedDeltaTime
-
              playerRigidbody2D.velocity = new Vector3(playerRigidbody2D.velocity.x, 0, 0);
             playerRigidbody2D.velocity = Vector3.up * 3111f * Time.deltaTime;
-            // playerRigidbody2D.AddForce(Vector3.up * 10f, ForceMode.Impulse);
             Grounded = false;
-            //jump = false;
             JumpCount++;
 
 
@@ -134,11 +128,6 @@ public class CharacterController2D : MonoBehaviour
 
         if (Grounded || AirControl)
         {
-            if (Grounded)
-            {
-                // onSecondJump = false;
-            }
-
             // If crouching
             if (crouch)
             {
@@ -159,8 +148,6 @@ public class CharacterController2D : MonoBehaviour
                 if (CrouchDisableCollider != null)
                     CrouchDisableCollider.enabled = true;
 
-
-
                 if (m_wasCrouching)
                 {
                     m_wasCrouching = false;
@@ -172,27 +159,13 @@ public class CharacterController2D : MonoBehaviour
                 runMultiplier = 13f;
             }
 
-
-
             // Move the character by finding the target velocity
             Vector3 targetVelocity = new Vector3(move * runMultiplier, playerRigidbody2D.velocity.y);//WALK SPEED !
 
             // And then smoothing it out and applying it to the character
             playerRigidbody2D.velocity = Vector3.SmoothDamp(playerRigidbody2D.velocity, targetVelocity, ref Velocity, MoveSmoothing);
 
-
-
         }
-
-        // If the player should jump...       
-        
-       
-        // if (jump && onSecondJump)
-        //  {
-        //  playerRigidbody2D.velocity = new Vector3(playerRigidbody2D.velocity.x, 0, 0);
-        //      playerRigidbody2D.AddForce(Vector3.up * 20f, ForceMode.Impulse);
-        //      onSecondJump = false;
-        //  }
     }
 
     

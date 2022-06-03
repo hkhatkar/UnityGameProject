@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossCautiousWalkBehaviour : StateMachineBehaviour
-{//This class manages enemy boss' SHIELD/RETREAT animation between switching states (when player attempts to attack enemy).
+{//NON ACTIVE SCRIPT
+//This class manages enemy boss' SHIELD/RETREAT animation between switching states (when player attempts to attack enemy).
 
     public float speed;//speed of enemy boss
     public float stoppingDistance;//enemy boss stops getting closer

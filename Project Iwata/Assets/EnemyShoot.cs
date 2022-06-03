@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyShoot : MonoBehaviour
-{//This class is responsible for enemy type 2 bullets to be shot towards player at a certain rate
+{//NON ACTIVE SCRIPT
+//This class is responsible for enemy type 2 bullets to be shot towards player at a certain rate
 
     [SerializeField]//Serialize field allows for the variable and its value to be seen within Unity
     GameObject EnemyBullet;

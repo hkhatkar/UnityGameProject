@@ -8,17 +8,10 @@ public class GameManager : MonoBehaviour
     public Vector3 spawnLocation;
     public Player p1;
     GameObject Player;
-
-    GameObject EnemyCollided;
-     
+    GameObject EnemyCollided;   
     public Transform EnemyTransform;
-
-
     public bool BattleScene;//serialized version of vvv //Battle would later detect if enemy then set to true if it is
-
     public SpawnBattleEnemy sbe;
-    
-    
     public static string EnemyToBattleName = ""; //These two used in PLATSceneTrigger also
     public EnemyFollow e1;
     //declares variables
@@ -27,10 +20,7 @@ public class GameManager : MonoBehaviour
     public GameObject[] EnemyTypes;
     //all enemies in here
     public GameObject EnemyToSpawn;
-
     public static List<string> TDDeadEnemies;
-
-
     public static GameObject TDEnemyCollision; 
     public static Vector3 previousPosition;
 
@@ -44,10 +34,6 @@ public class GameManager : MonoBehaviour
         //Finds the game object called "Player"
         p1 = Player.GetComponent<Player>();
         //assigns p1 to an instance of player object
-
-        
-        //Instance.transform.position = spawnLocation;
-        //transform.position = spawnLocation; //PERSISTENCE
         //spawn location is the location assigned in unity for each room.
         //After every scene switch, the specified spawnLocation is stored within the player location
         if (Instance == null)
@@ -67,7 +53,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (BattleScene == true && EnemyToSpawn == null)                               ///TOMMOROWS WORK
+        if (BattleScene == true && EnemyToSpawn == null)                           
         {
             
             if (EnemyToBattleName.Contains("PetraFly")) //ONLY WORKS FOR PETRAFLY ATM
@@ -91,25 +77,14 @@ public class GameManager : MonoBehaviour
             //Destroy(GameObject.Find(EnemyToBattleName));//Destroy enemy in 2.5d scene that got killed
             EnemyToSpawn = null;
             PLATSceneTrigger.RestorePosition = false;
-
-            //LATER ADD TO RESET ALL ENEMIES AFTER ENTERING OTHER SCENES? NOT BATTLEGROUND SCENES THOUGH
-            //
-            //
-            //
-            //
-            //
            
         }
     }
 
     public void SpawnEnemies()//useless?
     {
-        //GameObject BattleSpawner = GameObject.FindGameObjectWithTag("Cog"); //Start ? so it only does it once? when first scene starts ?
-        Debug.Log("OkayOkay");
+      
         Debug.Log(EnemyToSpawn.name);
-        //Debug.Log(BattleSpawner);
-        //EnemyTransform = BattleSpawner.transform;
-        //Instantiate(EnemyToSpawn, EnemyTransform.position, transform.rotation);
         Instantiate(EnemyToSpawn, new Vector2(0, 0), Quaternion.identity);
     }
 

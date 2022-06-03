@@ -12,18 +12,20 @@ public class Slot : MonoBehaviour
     private void Start()
     {
         inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();
+        //uses inventory script in order to update isFull array to empty, when a button in the inventory is pressed and therefore destroyed
     }
 
     private void Update()
     {
         if(transform.childCount <= 0)
-        {
+        {//if the item held in inventory is destroyed, it is no longer a child object of a slot, therefore checks there are no child objects
             inventory.isFull[slotNumber] = false;
+            //therefore if not, the slot is empty
         }
     }
-    // Start is called before the first frame update
+
     public void DropItem()
-    {
+    {//method used for destroying child objects in each slot
 
         foreach(Transform child in transform)
         {

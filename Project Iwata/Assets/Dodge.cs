@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-using System.Collections.Generic;   //!!!! use lerp to prevent jerking
+using System.Collections.Generic;   //use lerp to prevent jerking
 using UnityEngine;
 
 public class Dodge : MonoBehaviour
@@ -13,21 +13,13 @@ public class Dodge : MonoBehaviour
     private float DodgeTime;
     public float startDodgeTime;
     private int direction;
-    //public Color RollColor = new Color(0, 0, 0, 11);
-    //Colour of the player when they dodge (e.g. shadow?)
-    //private Color NormalColor;
-  
     public int CooldownTime;
     private float nextUseTime = 0;
 
     NewPLATPlayerMovement PlayerMoveScript;
-    //  public Renderer CurrentColor;
-    //Declares variables
-
     // Start is called before the first frame update
     void Start()
     {
-        //NormalColor = gameObject.GetComponent<Renderer>().material.color;
         PlayerMoveScript = gameObject.GetComponent<NewPLATPlayerMovement>();
         rb = GetComponent<Rigidbody>();
         DodgeTime = startDodgeTime;
@@ -35,9 +27,7 @@ public class Dodge : MonoBehaviour
     }
     public void checkIfInAir(bool grounded)//Checks by passing Grounded from Character controller class
     {
-        CannotDodge = grounded;//NOT IN USE ATM ------------------------------------------------------------------------------
-        // Debug.Log("Player grounded " + grounded);
-
+        CannotDodge = grounded;
     }
 
 
@@ -88,18 +78,8 @@ public class Dodge : MonoBehaviour
                 if (direction == 2)
                 {//if the direction is right
                     AbilityManager.AbilityInUse = true;
-                   // gameObject.GetComponent<Renderer>().material.color = RollColor;
                     playDodgeAnim = true;
                     animator.Play("Dodge");
-                    //the dodge animation is played
-                    //rb.velocity = Vector2.right * DodgeSpeed ;
-                    ////rb.gravityScale = 10f;
-                //   rb.AddForce(new Vector3(150f , 0f,0f)); //Time.fixedDeltaTime
-
-                  //  transform.Translate(transform.right * 10 * Time.deltaTime);///////////////////////////////////
-                    
-                    //  rb.velocity = Vector2.right * 16;
-                    // rb.velocity = Vector2.up * 8;
                     nextUseTime = Time.time + CooldownTime;
                     PlayerMoveScript.HandleDodge(16f);
 
@@ -108,16 +88,9 @@ public class Dodge : MonoBehaviour
                 }
                 else if (direction == 1)
                 {
-                    AbilityManager.AbilityInUse = true;
-                   // gameObject.GetComponent<Renderer>().material.color =  RollColor;
+                    AbilityManager.AbilityInUse = true; 
                     playDodgeAnim = true;
-                    // rb.velocity = Vector2.left * DodgeSpeed;
-                    //// rb.gravityScale = 10f;
-                    //  rb.AddForce(new Vector3(-150f , 0f, 0f)); //Time.fixedDeltaTime
                     animator.Play("DodgeBack");
-                   // transform.Translate(-transform.right * 10 * Time.deltaTime); ///////////////////////////////////////////
-                    // rb.velocity = Vector2.right * -16;
-                    //rb.velocity = Vector2.up * 8;
                     nextUseTime = Time.time + CooldownTime;
                     PlayerMoveScript.HandleDodge(-16f);
                     //Velocity acts on the left direction multiplied by the speed variable

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WaterEnemyShoot : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     [SerializeField]//Serialize field allows for the variable and its value to be seen within Unity
     GameObject EnemyBullet;
 

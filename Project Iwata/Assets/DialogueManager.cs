@@ -28,7 +28,7 @@ public class DialogueManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (dialogActive && Input.GetKeyUp(KeyCode.Space))
+        if (dialogActive && Input.GetKeyDown(KeyCode.E))
         {//If there is still dialogue active within the NPC's array
 
             currentLine++;

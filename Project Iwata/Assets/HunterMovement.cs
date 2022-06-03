@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 
 public class HunterMovement : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
   
     [SerializeField]
     float move;

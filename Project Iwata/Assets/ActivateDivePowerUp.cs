@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ActivateDivePowerUp : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     PlatformPlayerMovement PlayerMass;
     Rigidbody PlayerRigidBody;
     bool ClickedOnce = false;//This power up lasts until the player jumps, once for adding weight to player so they can dive and once to emerge at surface again

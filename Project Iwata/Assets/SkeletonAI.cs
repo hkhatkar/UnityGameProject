@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class SkeletonAI : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
 
     public float speed;//speed
     public float stoppingDistance;//enemy stops getting closer
@@ -16,7 +16,7 @@ public class SkeletonAI : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
-        rbSkeleton.gravityScale = 1000; //CHANGE LATER??????????????????????????? PREVENTS SKELE FROM MOVING UP AND DOWN ONLY SIDE TO SIDE
+        
     }
 
     // Update is called once per frame

@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : Character
-{//This is a simple movement class for the top down gameplay aspect
+{//NON ACTIVE SCRIPT
+//This is a simple movement class for the top down gameplay
 
     
 

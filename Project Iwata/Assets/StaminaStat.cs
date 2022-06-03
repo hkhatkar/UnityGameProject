@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 public class StaminaStat : MonoBehaviour
-{
+{//this script is responsible for managing the stamina bar for when the player runs. When it runs out, the player must wait to run again
     private Image content;
     public float MyMaxMagicValue { get; set; }
     float currentValue;
@@ -29,22 +29,17 @@ public class StaminaStat : MonoBehaviour
             }//makes sure current value doesnt go above max value
             else if (value < 0)
             {
-                
                 currentValue = 0;
                 playerscript.anim.SetBool("PLATSprinting", false);
                 playerscript.SprintCoolDown = true;
                 StartCoroutine(SprintCoolDownTimer());
-
             }
             else
             {
-               
                 currentValue = value;
-
                 UIFill.enabled = true;
                 UIBackground.enabled = true;
             }
-            //Initialize(InitializedHealth, InitializedHealth);
             currentFill = currentValue / MyMaxMagicValue;
         }
     }
@@ -68,7 +63,6 @@ public class StaminaStat : MonoBehaviour
     {
         MyMaxMagicValue = maxValue;
         MyCurrentValue = currentValue;
-
         //initializes the current value and max value to be displayed in UI
     }
 
@@ -86,11 +80,7 @@ public class StaminaStat : MonoBehaviour
                 MyCurrentValue++;
                 yield return new WaitForSeconds(0.02f);
             }
-
-
         }
-
-
     }
     IEnumerator SprintCoolDownTimer()
     {

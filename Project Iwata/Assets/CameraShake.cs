@@ -75,7 +75,7 @@ public class CameraShake : MonoBehaviour
     {
         if(bulletDestroyed == true)
         {
-            Debug.Log("In !!!!!!!!!!!!!");
+            Debug.Log("In");
             StartCoroutine(ShakeCustom(0.3f, 1f));
             bulletDestroyed = false;
         }

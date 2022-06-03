@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 public class Swing : MonoBehaviour
-{
+{//NON ACTIVE SCRIPT
     public GameObject Player;
     float rotSpeed = 20;
 

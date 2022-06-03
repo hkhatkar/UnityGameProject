@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class FlipEnemyDirection : MonoBehaviour
-{//This class is used to flip the enemy bosses direction to face the direction the player is 
+{//NON ACTIVE SCRIPT
+//This class is used to flip the enemy bosses direction to face the direction the player is 
 
     float EnemyX;
     float PlayerX;

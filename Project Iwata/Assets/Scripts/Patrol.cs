@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Patrol : MonoBehaviour
-{//This class is responsible for NPC/enemy AI type 3 that will patrol a specific platform, when reaching the end it will switch sides
+{//NON ACTIVE SCRIPT
+//This class is responsible for NPC/enemy behaviour that will patrol a specific platform, when reaching the end it will switch sides
 
     public float speed;
     public float distance;

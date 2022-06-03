@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BossIdleBehaviour : StateMachineBehaviour
-{//This class manages enemy bosses switch from idle to moving animation between switching states. (Start of boss battle)
+{//NON ACTIVE SCRIPT
+//This class manages enemy bosses switch from idle to moving animation between switching states. (Start of boss battle)
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
